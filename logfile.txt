@@ -1,0 +1,1530 @@
+test #1 target: 0,answer: 0, loss: 0.0099, file mnist_0_1000.jpg
+probabilities: 0: 0.9 1: 0.00 2: 0.08 3: 0.04 4: 0.00 5: 0.03 6: 0.00 7: 0.02 8: 0.00 9: 0.00 
+test #2 target: 1,answer: 1, loss: 0.01, file mnist_1_1000.jpg
+probabilities: 0: 0.00 1: 0.96 2: 0.00 3: 0.01 4: 0.00 5: 0.02 6: 0.01 7: 0.01 8: 0.10 9: 0.02 
+test #3 target: 2,answer: 2, loss: 0.00, file mnist_2_1003.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.97 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #4 target: 3,answer: 3, loss: 0.00, file mnist_3_1003.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.02 3: 0.93 4: 0.00 5: 0.00 6: 0.00 7: 0.05 8: 0.03 9: 0.01 
+test #5 target: 4,answer: 4, loss: 0.01, file mnist_4_1008.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.99 5: 0.01 6: 0.00 7: 0.00 8: 0.16 9: 0.01 
+test #6 target: 5,answer: 5, loss: 0.09, file mnist_5_1008.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.01 4: 0.00 5: 0.58 6: 0.04 7: 0.00 8: 0.02 9: 0.00 
+test #7 target: 6,answer: 6, loss: 0.22, file mnist_6_1000.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.00 4: 0.42 5: 0.00 6: 0.48 7: 0.04 8: 0.01 9: 0.06 
+test #8 target: 7,answer: 7, loss: 0.00, file mnist_7_1000.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.99 8: 0.00 9: 0.01 
+test #9 target: 8,answer: 8, loss: 0.02, file mnist_8_1000.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.01 8: 0.78 9: 0.04 
+test #10 target: 9,answer: 9, loss: 0.08, file mnist_9_1000.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.28 5: 0.00 6: 0.01 7: 0.00 8: 0.02 9: 0.72 
+test #11 target: 0,answer: 0, loss: 0.08, file mnist_0_1001.jpg
+probabilities: 0: 0.62 1: 0.00 2: 0.01 3: 0.01 4: 0.00 5: 0.06 6: 0.00 7: 0.13 8: 0.02 9: 0.00 
+test #12 target: 1,answer: 1, loss: 0.01, file mnist_1_1001.jpg
+probabilities: 0: 0.00 1: 0.93 2: 0.03 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.01 8: 0.13 9: 0.00 
+test #13 target: 2,answer: 2, loss: 0.00, file mnist_2_1004.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.99 3: 0.00 4: 0.00 5: 0.00 6: 0.02 7: 0.00 8: 0.01 9: 0.00 
+test #14 target: 3,answer: 3, loss: 0.00, file mnist_3_1004.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.04 3: 1.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #15 target: 4,answer: 4, loss: 0.09, file mnist_4_1009.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.86 5: 0.02 6: 0.00 7: 0.00 8: 0.41 9: 0.01 
+test #16 target: 5,answer: 5, loss: 0.01, file mnist_5_1009.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.00 3: 0.06 4: 0.00 5: 0.95 6: 0.00 7: 0.00 8: 0.12 9: 0.00 
+test #17 target: 6,answer: 6, loss: 0.00, file mnist_6_1001.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.99 7: 0.00 8: 0.00 9: 0.00 
+test #18 target: 7,answer: 7, loss: 0.00, file mnist_7_1001.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.01 4: 0.00 5: 0.01 6: 0.00 7: 0.99 8: 0.00 9: 0.01 
+test #19 target: 8,answer: 8, loss: 0.23, file mnist_8_1004.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.11 5: 0.18 6: 0.01 7: 0.00 8: 0.35 9: 0.06 
+test #20 target: 9,answer: 9, loss: 0.00, file mnist_9_1004.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.04 5: 0.01 6: 0.00 7: 0.01 8: 0.01 9: 0.94 
+test #21 target: 0,answer: 0, loss: 0.43, file mnist_0_1002.jpg
+probabilities: 0: 0.07 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.05 9: 0.00 
+test #22 target: 1,answer: 1, loss: 0.01, file mnist_1_1002.jpg
+probabilities: 0: 0.00 1: 0.92 2: 0.03 3: 0.02 4: 0.00 5: 0.00 6: 0.00 7: 0.09 8: 0.02 9: 0.01 
+test #23 target: 2,answer: 2, loss: 0.00, file mnist_2_1005.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.98 3: 0.00 4: 0.00 5: 0.00 6: 0.07 7: 0.00 8: 0.01 9: 0.00 
+test #24 target: 3,answer: 3, loss: 0.01, file mnist_3_1005.jpg
+probabilities: 0: 0.00 1: 0.01 2: 0.13 3: 0.92 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.06 9: 0.00 
+test #25 target: 4,answer: 4, loss: 0.00, file mnist_4_100.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.99 5: 0.01 6: 0.01 7: 0.02 8: 0.01 9: 0.02 
+test #26 target: 5,answer: 5, loss: 0.33, file mnist_5_100.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.01 3: 0.12 4: 0.00 5: 0.21 6: 0.01 7: 0.00 8: 0.14 9: 0.01 
+test #27 target: 6,answer: 6, loss: 0.00, file mnist_6_1002.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.03 3: 0.00 4: 0.00 5: 0.00 6: 0.97 7: 0.00 8: 0.01 9: 0.00 
+test #28 target: 7,answer: 7, loss: 0.00, file mnist_7_1002.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.98 8: 0.00 9: 0.02 
+test #29 target: 8,answer: 8, loss: 0.00, file mnist_8_1005.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.02 6: 0.00 7: 0.00 8: 0.97 9: 0.01 
+test #30 target: 9,answer: 9, loss: 0.00, file mnist_9_1005.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.06 5: 0.00 6: 0.00 7: 0.04 8: 0.00 9: 0.94 
+test #31 target: 0,answer: 0, loss: 0.00, file mnist_0_1003.jpg
+probabilities: 0: 0.98 1: 0.00 2: 0.07 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #32 target: 1,answer: 1, loss: 0.00, file mnist_1_1003.jpg
+probabilities: 0: 0.00 1: 0.99 2: 0.02 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.01 8: 0.03 9: 0.00 
+test #33 target: 2,answer: 2, loss: 0.02, file mnist_2_1006.jpg
+probabilities: 0: 0.00 1: 0.02 2: 0.90 3: 0.15 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #34 target: 3,answer: 3, loss: 0.01, file mnist_3_1006.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.98 4: 0.00 5: 0.11 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #35 target: 4,answer: 4, loss: 0.04, file mnist_4_1018.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.92 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.26 
+test #36 target: 5,answer: 5, loss: 0.01, file mnist_5_1018.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.04 3: 0.00 4: 0.00 5: 0.87 6: 0.04 7: 0.00 8: 0.04 9: 0.00 
+test #37 target: 6,answer: 6, loss: 0.00, file mnist_6_1003.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.00 4: 0.04 5: 0.00 6: 0.95 7: 0.00 8: 0.00 9: 0.00 
+test #38 target: 7,answer: 7, loss: 0.00, file mnist_7_1003.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 1.00 8: 0.00 9: 0.00 
+test #39 target: 8,answer: 8, loss: 0.01, file mnist_8_1006.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.10 3: 0.02 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.95 9: 0.00 
+test #40 target: 9,answer: 9, loss: 0.01, file mnist_9_1006.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.08 5: 0.00 6: 0.00 7: 0.03 8: 0.01 9: 0.93 
+test #41 target: 0,answer: 0, loss: 0.00, file mnist_0_1004.jpg
+probabilities: 0: 0.98 1: 0.00 2: 0.03 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #42 target: 1,answer: 1, loss: 0.00, file mnist_1_1004.jpg
+probabilities: 0: 0.00 1: 0.95 2: 0.03 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.07 9: 0.00 
+test #43 target: 2,answer: 2, loss: 0.00, file mnist_2_1007.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.99 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #44 target: 3,answer: 3, loss: 0.00, file mnist_3_1007.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.02 3: 0.99 4: 0.00 5: 0.02 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #45 target: 4,answer: 4, loss: 0.05, file mnist_4_1019.jpg
+probabilities: 0: 0.06 1: 0.00 2: 0.00 3: 0.00 4: 0.68 5: 0.00 6: 0.00 7: 0.00 8: 0.01 9: 0.01 
+test #46 target: 5,answer: 9, loss: 0.27, file mnist_5_1019.jpg
+probabilities: 0: 0.04 1: 0.00 2: 0.01 3: 0.02 4: 0.02 5: 0.39 6: 0.00 7: 0.00 8: 0.08 9: 0.39 
+test #47 target: 6,answer: 6, loss: 0.00, file mnist_6_1004.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.04 3: 0.00 4: 0.00 5: 0.01 6: 1.00 7: 0.00 8: 0.00 9: 0.00 
+test #48 target: 7,answer: 7, loss: 0.01, file mnist_7_1004.jpg
+probabilities: 0: 0.00 1: 0.05 2: 0.03 3: 0.08 4: 0.00 5: 0.00 6: 0.00 7: 0.95 8: 0.01 9: 0.05 
+test #49 target: 8,answer: 3, loss: 0.67, file mnist_8_1007.jpg
+probabilities: 0: 0.00 1: 0.01 2: 0.01 3: 0.64 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.04 9: 0.02 
+test #50 target: 9,answer: 9, loss: 0.00, file mnist_9_1007.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.00 6: 0.00 7: 0.01 8: 0.01 9: 0.96 
+test #51 target: 0,answer: 0, loss: 0.06, file mnist_0_1005.jpg
+probabilities: 0: 0.67 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.02 6: 0.00 7: 0.00 8: 0.04 9: 0.00 
+test #52 target: 1,answer: 1, loss: 0.00, file mnist_1_1005.jpg
+probabilities: 0: 0.00 1: 0.94 2: 0.04 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.06 9: 0.00 
+test #53 target: 2,answer: 2, loss: 0.00, file mnist_2_1008.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.99 3: 0.00 4: 0.00 5: 0.00 6: 0.01 7: 0.00 8: 0.02 9: 0.00 
+test #54 target: 3,answer: 3, loss: 0.04, file mnist_3_1008.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.92 4: 0.00 5: 0.28 6: 0.00 7: 0.00 8: 0.03 9: 0.00 
+test #55 target: 4,answer: 4, loss: 0.00, file mnist_4_101.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.98 5: 0.01 6: 0.03 7: 0.00 8: 0.00 9: 0.01 
+test #56 target: 5,answer: 5, loss: 0.17, file mnist_5_101.jpg
+probabilities: 0: 0.07 1: 0.00 2: 0.02 3: 0.00 4: 0.00 5: 0.43 6: 0.05 7: 0.00 8: 0.12 9: 0.00 
+test #57 target: 6,answer: 6, loss: 0.00, file mnist_6_1005.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.05 3: 0.00 4: 0.00 5: 0.01 6: 1.00 7: 0.00 8: 0.00 9: 0.00 
+test #58 target: 7,answer: 4, loss: 0.67, file mnist_7_1005.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.53 5: 0.25 6: 0.01 7: 0.00 8: 0.03 9: 0.03 
+test #59 target: 8,answer: 8, loss: 0.11, file mnist_8_1008.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.06 4: 0.00 5: 0.01 6: 0.00 7: 0.02 8: 0.55 9: 0.05 
+test #60 target: 9,answer: 9, loss: 0.03, file mnist_9_1008.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.22 5: 0.00 6: 0.00 7: 0.00 8: 0.08 9: 0.90 
+test #61 target: 0,answer: 0, loss: 0.00, file mnist_0_1006.jpg
+probabilities: 0: 1.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.02 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #62 target: 1,answer: 1, loss: 0.00, file mnist_1_1006.jpg
+probabilities: 0: 0.00 1: 0.97 2: 0.00 3: 0.03 4: 0.00 5: 0.00 6: 0.00 7: 0.04 8: 0.01 9: 0.01 
+test #63 target: 2,answer: 2, loss: 0.00, file mnist_2_1009.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.97 3: 0.01 4: 0.00 5: 0.00 6: 0.02 7: 0.00 8: 0.04 9: 0.00 
+test #64 target: 3,answer: 3, loss: 0.00, file mnist_3_1009.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 1.00 4: 0.00 5: 0.01 6: 0.00 7: 0.01 8: 0.00 9: 0.00 
+test #65 target: 4,answer: 4, loss: 0.02, file mnist_4_1020.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.95 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.21 
+test #66 target: 5,answer: 5, loss: 0.03, file mnist_5_1020.jpg
+probabilities: 0: 0.04 1: 0.00 2: 0.00 3: 0.16 4: 0.00 5: 0.81 6: 0.00 7: 0.01 8: 0.01 9: 0.00 
+test #67 target: 6,answer: 6, loss: 0.00, file mnist_6_1006.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.03 3: 0.00 4: 0.01 5: 0.01 6: 0.96 7: 0.00 8: 0.00 9: 0.00 
+test #68 target: 7,answer: 7, loss: 0.04, file mnist_7_1006.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.00 4: 0.04 5: 0.01 6: 0.00 7: 0.75 8: 0.00 9: 0.09 
+test #69 target: 8,answer: 8, loss: 0.21, file mnist_8_1009.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.00 4: 0.07 5: 0.22 6: 0.00 7: 0.00 8: 0.41 9: 0.11 
+test #70 target: 9,answer: 9, loss: 0.03, file mnist_9_1009.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.03 4: 0.00 5: 0.00 6: 0.00 7: 0.04 8: 0.01 9: 0.78 
+test #71 target: 0,answer: 0, loss: 0.00, file mnist_0_1007.jpg
+probabilities: 0: 1.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #72 target: 1,answer: 1, loss: 0.01, file mnist_1_1007.jpg
+probabilities: 0: 0.00 1: 0.92 2: 0.09 3: 0.00 4: 0.01 5: 0.00 6: 0.00 7: 0.06 8: 0.02 9: 0.00 
+test #73 target: 2,answer: 2, loss: 0.01, file mnist_2_100.jpg
+probabilities: 0: 0.12 1: 0.00 2: 0.99 3: 0.02 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #74 target: 3,answer: 3, loss: 0.01, file mnist_3_1010.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.13 3: 0.99 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.02 9: 0.00 
+test #75 target: 4,answer: 4, loss: 0.04, file mnist_4_1021.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.79 5: 0.00 6: 0.00 7: 0.05 8: 0.04 9: 0.18 
+test #76 target: 5,answer: 5, loss: 0.03, file mnist_5_1021.jpg
+probabilities: 0: 0.00 1: 0.01 2: 0.01 3: 0.00 4: 0.00 5: 0.95 6: 0.24 7: 0.00 8: 0.05 9: 0.00 
+test #77 target: 6,answer: 6, loss: 0.02, file mnist_6_1007.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.03 4: 0.01 5: 0.11 6: 0.87 7: 0.00 8: 0.03 9: 0.00 
+test #78 target: 7,answer: 7, loss: 0.00, file mnist_7_1007.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.02 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 1.00 8: 0.00 9: 0.00 
+test #79 target: 8,answer: 8, loss: 0.15, file mnist_8_1010.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.04 6: 0.00 7: 0.02 8: 0.49 9: 0.19 
+test #80 target: 9,answer: 9, loss: 0.01, file mnist_9_1010.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.07 9: 0.85 
+test #81 target: 0,answer: 0, loss: 0.00, file mnist_0_1010.jpg
+probabilities: 0: 0.97 1: 0.00 2: 0.02 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.02 9: 0.00 
+test #82 target: 1,answer: 1, loss: 0.10, file mnist_1_1010.jpg
+probabilities: 0: 0.00 1: 0.63 2: 0.12 3: 0.01 4: 0.01 5: 0.00 6: 0.00 7: 0.00 8: 0.21 9: 0.00 
+test #83 target: 2,answer: 2, loss: 0.01, file mnist_2_1010.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.90 3: 0.01 4: 0.03 5: 0.00 6: 0.01 7: 0.00 8: 0.04 9: 0.06 
+test #84 target: 3,answer: 3, loss: 0.26, file mnist_3_1011.jpg
+probabilities: 0: 0.17 1: 0.00 2: 0.02 3: 0.32 4: 0.00 5: 0.10 6: 0.00 7: 0.07 8: 0.02 9: 0.00 
+test #85 target: 4,answer: 4, loss: 0.01, file mnist_4_1022.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.94 5: 0.00 6: 0.01 7: 0.00 8: 0.01 9: 0.13 
+test #86 target: 5,answer: 5, loss: 0.24, file mnist_5_1022.jpg
+probabilities: 0: 0.00 1: 0.16 2: 0.19 3: 0.01 4: 0.00 5: 0.36 6: 0.01 7: 0.00 8: 0.00 9: 0.00 
+test #87 target: 6,answer: 6, loss: 0.02, file mnist_6_1009.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.20 3: 0.00 4: 0.00 5: 0.01 6: 0.97 7: 0.00 8: 0.00 9: 0.00 
+test #88 target: 7,answer: 7, loss: 0.07, file mnist_7_1009.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.13 6: 0.00 7: 0.67 8: 0.00 9: 0.15 
+test #89 target: 8,answer: 8, loss: 0.00, file mnist_8_1011.jpg
+probabilities: 0: 0.00 1: 0.04 2: 0.01 3: 0.01 4: 0.00 5: 0.02 6: 0.00 7: 0.00 8: 0.93 9: 0.00 
+test #90 target: 9,answer: 9, loss: 0.06, file mnist_9_1011.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.02 6: 0.00 7: 0.00 8: 0.10 9: 0.68 
+test #91 target: 0,answer: 0, loss: 0.00, file mnist_0_1011.jpg
+probabilities: 0: 1.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.01 8: 0.00 9: 0.00 
+test #92 target: 1,answer: 1, loss: 0.00, file mnist_1_1011.jpg
+probabilities: 0: 0.00 1: 0.96 2: 0.02 3: 0.01 4: 0.00 5: 0.00 6: 0.01 7: 0.00 8: 0.06 9: 0.00 
+test #93 target: 2,answer: 2, loss: 0.00, file mnist_2_1011.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.98 3: 0.01 4: 0.00 5: 0.00 6: 0.01 7: 0.00 8: 0.00 9: 0.00 
+test #94 target: 3,answer: 3, loss: 0.00, file mnist_3_1012.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.96 4: 0.00 5: 0.09 6: 0.00 7: 0.00 8: 0.02 9: 0.00 
+test #95 target: 4,answer: 4, loss: 0.04, file mnist_4_1023.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.75 5: 0.01 6: 0.00 7: 0.00 8: 0.00 9: 0.16 
+test #96 target: 5,answer: 5, loss: 0.06, file mnist_5_1023.jpg
+probabilities: 0: 0.00 1: 0.03 2: 0.04 3: 0.03 4: 0.00 5: 0.66 6: 0.01 7: 0.00 8: 0.07 9: 0.00 
+test #97 target: 6,answer: 6, loss: 0.03, file mnist_6_100.jpg
+probabilities: 0: 0.00 1: 0.15 2: 0.02 3: 0.00 4: 0.00 5: 0.02 6: 0.84 7: 0.00 8: 0.08 9: 0.00 
+test #98 target: 7,answer: 7, loss: 0.00, file mnist_7_100.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.99 8: 0.00 9: 0.04 
+test #99 target: 8,answer: 8, loss: 0.01, file mnist_8_1012.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.02 6: 0.00 7: 0.00 8: 0.99 9: 0.11 
+test #100 target: 9,answer: 9, loss: 0.09, file mnist_9_1012.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.38 5: 0.01 6: 0.01 7: 0.01 8: 0.01 9: 0.81 
+test #101 target: 0,answer: 0, loss: 0.03, file mnist_0_1012.jpg
+probabilities: 0: 0.86 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.01 6: 0.20 7: 0.00 8: 0.00 9: 0.00 
+test #102 target: 1,answer: 2, loss: 0.88, file mnist_1_1012.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.84 3: 0.22 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #103 target: 2,answer: 2, loss: 0.00, file mnist_2_1012.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.99 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.01 8: 0.00 9: 0.00 
+test #104 target: 3,answer: 3, loss: 0.01, file mnist_3_1013.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.95 4: 0.00 5: 0.10 6: 0.00 7: 0.00 8: 0.02 9: 0.00 
+test #105 target: 4,answer: 4, loss: 0.00, file mnist_4_1024.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.96 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.06 
+test #106 target: 5,answer: 5, loss: 0.06, file mnist_5_1024.jpg
+probabilities: 0: 0.00 1: 0.26 2: 0.05 3: 0.00 4: 0.00 5: 0.79 6: 0.01 7: 0.00 8: 0.04 9: 0.00 
+test #107 target: 6,answer: 6, loss: 0.00, file mnist_6_1010.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.01 6: 0.99 7: 0.00 8: 0.00 9: 0.00 
+test #108 target: 7,answer: 7, loss: 0.00, file mnist_7_1010.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 1.00 8: 0.00 9: 0.00 
+test #109 target: 8,answer: 8, loss: 0.23, file mnist_8_1013.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.00 3: 0.19 4: 0.00 5: 0.02 6: 0.00 7: 0.00 8: 0.35 9: 0.00 
+test #110 target: 9,answer: 9, loss: 0.01, file mnist_9_1013.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.02 3: 0.00 4: 0.01 5: 0.00 6: 0.00 7: 0.10 8: 0.03 9: 0.88 
+test #111 target: 0,answer: 0, loss: 0.01, file mnist_0_1013.jpg
+probabilities: 0: 0.97 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.15 6: 0.00 7: 0.02 8: 0.00 9: 0.00 
+test #112 target: 1,answer: 1, loss: 0.00, file mnist_1_1013.jpg
+probabilities: 0: 0.00 1: 0.96 2: 0.01 3: 0.03 4: 0.00 5: 0.00 6: 0.00 7: 0.04 8: 0.04 9: 0.02 
+test #113 target: 2,answer: 2, loss: 0.00, file mnist_2_1013.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.97 3: 0.03 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.02 9: 0.00 
+test #114 target: 3,answer: 3, loss: 0.01, file mnist_3_1017.jpg
+probabilities: 0: 0.00 1: 0.01 2: 0.06 3: 0.95 4: 0.00 5: 0.03 6: 0.00 7: 0.00 8: 0.08 9: 0.00 
+test #115 target: 4,answer: 4, loss: 0.02, file mnist_4_1025.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.85 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.11 
+test #116 target: 5,answer: 5, loss: 0.02, file mnist_5_1025.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.00 3: 0.02 4: 0.15 5: 0.91 6: 0.05 7: 0.00 8: 0.06 9: 0.00 
+test #117 target: 6,answer: 6, loss: 0.00, file mnist_6_1011.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.01 6: 0.98 7: 0.00 8: 0.00 9: 0.01 
+test #118 target: 7,answer: 7, loss: 0.00, file mnist_7_1011.jpg
+probabilities: 0: 0.00 1: 0.03 2: 0.02 3: 0.02 4: 0.00 5: 0.00 6: 0.00 7: 0.97 8: 0.00 9: 0.04 
+test #119 target: 8,answer: 8, loss: 0.00, file mnist_8_1014.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.02 6: 0.00 7: 0.00 8: 0.99 9: 0.01 
+test #120 target: 9,answer: 9, loss: 0.00, file mnist_9_1014.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.01 8: 0.01 9: 0.96 
+test #121 target: 0,answer: 0, loss: 0.00, file mnist_0_1014.jpg
+probabilities: 0: 0.99 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.01 7: 0.00 8: 0.00 9: 0.00 
+test #122 target: 1,answer: 1, loss: 0.02, file mnist_1_1014.jpg
+probabilities: 0: 0.00 1: 0.83 2: 0.04 3: 0.01 4: 0.00 5: 0.01 6: 0.03 7: 0.00 8: 0.13 9: 0.00 
+test #123 target: 2,answer: 2, loss: 0.12, file mnist_2_1017.jpg
+probabilities: 0: 0.03 1: 0.00 2: 0.51 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.02 8: 0.03 9: 0.00 
+test #124 target: 3,answer: 3, loss: 0.01, file mnist_3_1018.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.97 4: 0.00 5: 0.10 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #125 target: 4,answer: 4, loss: 0.00, file mnist_4_1026.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.91 5: 0.02 6: 0.02 7: 0.01 8: 0.02 9: 0.02 
+test #126 target: 5,answer: 5, loss: 0.05, file mnist_5_1026.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.26 4: 0.00 5: 0.84 6: 0.00 7: 0.00 8: 0.02 9: 0.00 
+test #127 target: 6,answer: 6, loss: 0.01, file mnist_6_1012.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.11 3: 0.00 4: 0.00 5: 0.01 6: 0.97 7: 0.00 8: 0.02 9: 0.00 
+test #128 target: 7,answer: 7, loss: 0.00, file mnist_7_1012.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.03 4: 0.00 5: 0.01 6: 0.00 7: 0.96 8: 0.00 9: 0.02 
+test #129 target: 8,answer: 8, loss: 0.04, file mnist_8_1018.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.13 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.76 9: 0.00 
+test #130 target: 9,answer: 9, loss: 0.01, file mnist_9_1018.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.00 6: 0.00 7: 0.03 8: 0.09 9: 0.97 
+test #131 target: 0,answer: 0, loss: 0.04, file mnist_0_1015.jpg
+probabilities: 0: 0.97 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.29 8: 0.00 9: 0.00 
+test #132 target: 1,answer: 8, loss: 0.46, file mnist_1_1015.jpg
+probabilities: 0: 0.00 1: 0.07 2: 0.00 3: 0.01 4: 0.08 5: 0.00 6: 0.00 7: 0.00 8: 0.20 9: 0.10 
+test #133 target: 2,answer: 2, loss: 0.23, file mnist_2_1018.jpg
+probabilities: 0: 0.03 1: 0.00 2: 0.35 3: 0.13 4: 0.00 5: 0.00 6: 0.00 7: 0.01 8: 0.07 9: 0.04 
+test #134 target: 3,answer: 3, loss: 0.00, file mnist_3_1019.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.96 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #135 target: 4,answer: 4, loss: 0.10, file mnist_4_1027.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.67 5: 0.02 6: 0.08 7: 0.00 8: 0.02 9: 0.28 
+test #136 target: 5,answer: 5, loss: 0.00, file mnist_5_1027.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.03 5: 0.99 6: 0.00 7: 0.00 8: 0.05 9: 0.00 
+test #137 target: 6,answer: 6, loss: 0.00, file mnist_6_1013.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 1.00 7: 0.00 8: 0.00 9: 0.00 
+test #138 target: 7,answer: 7, loss: 0.00, file mnist_7_1013.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.03 3: 0.03 4: 0.00 5: 0.00 6: 0.00 7: 0.98 8: 0.00 9: 0.04 
+test #139 target: 8,answer: 8, loss: 0.06, file mnist_8_1019.jpg
+probabilities: 0: 0.00 1: 0.02 2: 0.00 3: 0.18 4: 0.03 5: 0.03 6: 0.00 7: 0.00 8: 0.72 9: 0.01 
+test #140 target: 9,answer: 9, loss: 0.03, file mnist_9_1019.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.03 4: 0.05 5: 0.00 6: 0.00 7: 0.02 8: 0.03 9: 0.76 
+test #141 target: 0,answer: 0, loss: 0.01, file mnist_0_1016.jpg
+probabilities: 0: 0.99 1: 0.00 2: 0.15 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #142 target: 1,answer: 1, loss: 0.00, file mnist_1_1016.jpg
+probabilities: 0: 0.00 1: 0.95 2: 0.05 3: 0.02 4: 0.00 5: 0.00 6: 0.01 7: 0.00 8: 0.06 9: 0.00 
+test #143 target: 2,answer: 2, loss: 0.00, file mnist_2_1019.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.98 3: 0.01 4: 0.00 5: 0.00 6: 0.01 7: 0.00 8: 0.00 9: 0.00 
+test #144 target: 3,answer: 3, loss: 0.00, file mnist_3_1020.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.99 4: 0.00 5: 0.03 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #145 target: 4,answer: 4, loss: 0.00, file mnist_4_102.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 1.00 5: 0.03 6: 0.01 7: 0.00 8: 0.00 9: 0.01 
+test #146 target: 5,answer: 6, loss: 0.58, file mnist_5_102.jpg
+probabilities: 0: 0.00 1: 0.06 2: 0.16 3: 0.00 4: 0.04 5: 0.02 6: 0.39 7: 0.00 8: 0.12 9: 0.00 
+test #147 target: 6,answer: 6, loss: 0.00, file mnist_6_1014.jpg
+probabilities: 0: 0.00 1: 0.01 2: 0.06 3: 0.00 4: 0.00 5: 0.00 6: 0.95 7: 0.00 8: 0.01 9: 0.00 
+test #148 target: 7,answer: 7, loss: 0.02, file mnist_7_1014.jpg
+probabilities: 0: 0.03 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.85 8: 0.00 9: 0.15 
+test #149 target: 8,answer: 8, loss: 0.00, file mnist_8_1020.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.97 9: 0.08 
+test #150 target: 9,answer: 9, loss: 0.01, file mnist_9_1020.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.01 6: 0.00 7: 0.03 8: 0.01 9: 0.85 
+test #151 target: 0,answer: 0, loss: 0.00, file mnist_0_1017.jpg
+probabilities: 0: 1.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #152 target: 1,answer: 1, loss: 0.00, file mnist_1_1017.jpg
+probabilities: 0: 0.00 1: 0.96 2: 0.02 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.03 8: 0.03 9: 0.00 
+test #153 target: 2,answer: 2, loss: 0.01, file mnist_2_101.jpg
+probabilities: 0: 0.03 1: 0.00 2: 0.85 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.01 8: 0.02 9: 0.00 
+test #154 target: 3,answer: 3, loss: 0.00, file mnist_3_1021.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.98 4: 0.00 5: 0.04 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #155 target: 4,answer: 4, loss: 0.03, file mnist_4_1030.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.86 5: 0.00 6: 0.00 7: 0.01 8: 0.00 9: 0.18 
+test #156 target: 5,answer: 5, loss: 0.02, file mnist_5_1030.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.00 3: 0.15 4: 0.00 5: 0.89 6: 0.00 7: 0.10 8: 0.00 9: 0.00 
+test #157 target: 6,answer: 6, loss: 0.00, file mnist_6_1015.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.02 3: 0.00 4: 0.01 5: 0.00 6: 0.99 7: 0.00 8: 0.00 9: 0.00 
+test #158 target: 7,answer: 7, loss: 0.00, file mnist_7_1015.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.02 4: 0.00 5: 0.00 6: 0.00 7: 0.97 8: 0.00 9: 0.03 
+test #159 target: 8,answer: 8, loss: 0.00, file mnist_8_1021.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.99 9: 0.02 
+test #160 target: 9,answer: 8, loss: 0.62, file mnist_9_1021.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.28 5: 0.06 6: 0.01 7: 0.00 8: 0.59 9: 0.10 
+test #161 target: 0,answer: 0, loss: 0.01, file mnist_0_1028.jpg
+probabilities: 0: 0.90 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.06 6: 0.03 7: 0.00 8: 0.02 9: 0.00 
+test #162 target: 1,answer: 1, loss: 0.00, file mnist_1_1028.jpg
+probabilities: 0: 0.00 1: 0.98 2: 0.02 3: 0.02 4: 0.00 5: 0.00 6: 0.01 7: 0.01 8: 0.03 9: 0.00 
+test #163 target: 2,answer: 2, loss: 0.00, file mnist_2_1020.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.99 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #164 target: 3,answer: 3, loss: 0.02, file mnist_3_1022.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.90 4: 0.00 5: 0.16 6: 0.00 7: 0.00 8: 0.03 9: 0.00 
+test #165 target: 4,answer: 4, loss: 0.00, file mnist_4_1031.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.93 5: 0.01 6: 0.00 7: 0.00 8: 0.03 9: 0.06 
+test #166 target: 5,answer: 5, loss: 0.07, file mnist_5_1031.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.16 4: 0.01 5: 0.89 6: 0.00 7: 0.00 8: 0.02 9: 0.33 
+test #167 target: 6,answer: 2, loss: 0.34, file mnist_6_1016.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.36 3: 0.00 4: 0.00 5: 0.00 6: 0.26 7: 0.00 8: 0.00 9: 0.00 
+test #168 target: 7,answer: 7, loss: 0.00, file mnist_7_1016.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 1.00 8: 0.00 9: 0.00 
+test #169 target: 8,answer: 8, loss: 0.00, file mnist_8_1022.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.99 9: 0.00 
+test #170 target: 9,answer: 9, loss: 0.00, file mnist_9_1022.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.02 5: 0.00 6: 0.00 7: 0.01 8: 0.02 9: 0.99 
+test #171 target: 0,answer: 0, loss: 0.00, file mnist_0_1029.jpg
+probabilities: 0: 0.94 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.03 9: 0.01 
+test #172 target: 1,answer: 1, loss: 0.00, file mnist_1_1029.jpg
+probabilities: 0: 0.00 1: 0.98 2: 0.02 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.02 8: 0.01 9: 0.00 
+test #173 target: 2,answer: 6, loss: 0.49, file mnist_2_1021.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.02 3: 0.00 4: 0.00 5: 0.00 6: 0.14 7: 0.00 8: 0.02 9: 0.00 
+test #174 target: 3,answer: 3, loss: 0.00, file mnist_3_1023.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.95 4: 0.00 5: 0.03 6: 0.00 7: 0.04 8: 0.02 9: 0.01 
+test #175 target: 4,answer: 4, loss: 0.05, file mnist_4_1032.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.85 5: 0.00 6: 0.00 7: 0.28 8: 0.01 9: 0.07 
+test #176 target: 5,answer: 5, loss: 0.00, file mnist_5_1032.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.00 3: 0.03 4: 0.00 5: 0.98 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #177 target: 6,answer: 6, loss: 0.00, file mnist_6_1017.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.02 3: 0.00 4: 0.00 5: 0.01 6: 0.99 7: 0.00 8: 0.03 9: 0.00 
+test #178 target: 7,answer: 7, loss: 0.01, file mnist_7_1017.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.01 6: 0.00 7: 0.92 8: 0.00 9: 0.07 
+test #179 target: 8,answer: 8, loss: 0.00, file mnist_8_1023.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.02 6: 0.00 7: 0.00 8: 0.99 9: 0.01 
+test #180 target: 9,answer: 9, loss: 0.11, file mnist_9_1023.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.13 5: 0.01 6: 0.00 7: 0.16 8: 0.07 9: 0.59 
+test #181 target: 0,answer: 0, loss: 0.00, file mnist_0_1038.jpg
+probabilities: 0: 1.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #182 target: 1,answer: 1, loss: 0.03, file mnist_1_1038.jpg
+probabilities: 0: 0.00 1: 0.86 2: 0.04 3: 0.01 4: 0.00 5: 0.04 6: 0.05 7: 0.00 8: 0.20 9: 0.00 
+test #183 target: 2,answer: 2, loss: 0.00, file mnist_2_1022.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.98 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.06 9: 0.00 
+test #184 target: 3,answer: 3, loss: 0.01, file mnist_3_1024.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.88 4: 0.01 5: 0.08 6: 0.00 7: 0.00 8: 0.07 9: 0.00 
+test #185 target: 4,answer: 4, loss: 0.01, file mnist_4_1033.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.98 5: 0.09 6: 0.00 7: 0.01 8: 0.01 9: 0.05 
+test #186 target: 5,answer: 5, loss: 0.01, file mnist_5_1033.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.96 6: 0.13 7: 0.00 8: 0.02 9: 0.00 
+test #187 target: 6,answer: 6, loss: 0.00, file mnist_6_1018.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.04 3: 0.00 4: 0.00 5: 0.01 6: 0.99 7: 0.00 8: 0.00 9: 0.00 
+test #188 target: 7,answer: 7, loss: 0.00, file mnist_7_1018.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.99 8: 0.00 9: 0.02 
+test #189 target: 8,answer: 8, loss: 0.00, file mnist_8_1024.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.97 9: 0.04 
+test #190 target: 9,answer: 9, loss: 0.06, file mnist_9_1024.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.01 3: 0.00 4: 0.19 5: 0.00 6: 0.01 7: 0.10 8: 0.09 9: 0.75 
+test #191 target: 0,answer: 0, loss: 0.00, file mnist_0_1039.jpg
+probabilities: 0: 0.99 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #192 target: 1,answer: 1, loss: 0.02, file mnist_1_1039.jpg
+probabilities: 0: 0.00 1: 0.86 2: 0.00 3: 0.09 4: 0.00 5: 0.02 6: 0.00 7: 0.00 8: 0.12 9: 0.07 
+test #193 target: 2,answer: 2, loss: 0.04, file mnist_2_1023.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.78 3: 0.17 4: 0.00 5: 0.00 6: 0.00 7: 0.01 8: 0.01 9: 0.00 
+test #194 target: 3,answer: 3, loss: 0.00, file mnist_3_1025.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.98 4: 0.00 5: 0.04 6: 0.00 7: 0.00 8: 0.03 9: 0.00 
+test #195 target: 4,answer: 4, loss: 0.00, file mnist_4_1034.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.99 5: 0.01 6: 0.03 7: 0.01 8: 0.00 9: 0.00 
+test #196 target: 5,answer: 5, loss: 0.20, file mnist_5_1034.jpg
+probabilities: 0: 0.04 1: 0.00 2: 0.00 3: 0.01 4: 0.00 5: 0.38 6: 0.00 7: 0.04 8: 0.06 9: 0.04 
+test #197 target: 6,answer: 8, loss: 0.60, file mnist_6_1019.jpg
+probabilities: 0: 0.26 1: 0.00 2: 0.02 3: 0.00 4: 0.00 5: 0.16 6: 0.00 7: 0.00 8: 0.32 9: 0.00 
+test #198 target: 7,answer: 7, loss: 0.01, file mnist_7_1019.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.03 6: 0.00 7: 0.89 8: 0.00 9: 0.04 
+test #199 target: 8,answer: 8, loss: 0.02, file mnist_8_1025.jpg
+probabilities: 0: 0.00 1: 0.04 2: 0.02 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.82 9: 0.00 
+test #200 target: 9,answer: 9, loss: 0.03, file mnist_9_1025.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.03 4: 0.09 5: 0.10 6: 0.00 7: 0.00 8: 0.01 9: 0.79 
+test #201 target: 0,answer: 0, loss: 0.08, file mnist_0_1040.jpg
+probabilities: 0: 0.96 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.39 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #202 target: 1,answer: 1, loss: 0.02, file mnist_1_1040.jpg
+probabilities: 0: 0.00 1: 0.94 2: 0.02 3: 0.03 4: 0.00 5: 0.00 6: 0.00 7: 0.16 8: 0.01 9: 0.03 
+test #203 target: 2,answer: 8, loss: 0.76, file mnist_2_1024.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.15 3: 0.02 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.90 9: 0.00 
+test #204 target: 3,answer: 3, loss: 0.00, file mnist_3_1026.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.99 4: 0.00 5: 0.07 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #205 target: 4,answer: 4, loss: 0.11, file mnist_4_1035.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.59 5: 0.14 6: 0.00 7: 0.01 8: 0.03 9: 0.17 
+test #206 target: 5,answer: 5, loss: 0.02, file mnist_5_1035.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.00 3: 0.04 4: 0.09 5: 0.84 6: 0.03 7: 0.00 8: 0.11 9: 0.03 
+test #207 target: 6,answer: 6, loss: 0.02, file mnist_6_101.jpg
+probabilities: 0: 0.00 1: 0.01 2: 0.15 3: 0.00 4: 0.00 5: 0.00 6: 0.93 7: 0.00 8: 0.06 9: 0.01 
+test #208 target: 7,answer: 7, loss: 0.00, file mnist_7_101.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 1.00 8: 0.00 9: 0.01 
+test #209 target: 8,answer: 8, loss: 0.00, file mnist_8_1026.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.91 9: 0.00 
+test #210 target: 9,answer: 3, loss: 0.62, file mnist_9_1026.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.56 4: 0.01 5: 0.08 6: 0.00 7: 0.01 8: 0.19 9: 0.05 
+test #211 target: 0,answer: 0, loss: 0.00, file mnist_0_1041.jpg
+probabilities: 0: 0.98 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #212 target: 1,answer: 1, loss: 0.00, file mnist_1_1041.jpg
+probabilities: 0: 0.00 1: 0.98 2: 0.00 3: 0.02 4: 0.00 5: 0.00 6: 0.01 7: 0.00 8: 0.07 9: 0.01 
+test #213 target: 2,answer: 2, loss: 0.00, file mnist_2_1025.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.99 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #214 target: 3,answer: 3, loss: 0.27, file mnist_3_1027.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.43 4: 0.00 5: 0.23 6: 0.00 7: 0.40 8: 0.01 9: 0.04 
+test #215 target: 4,answer: 4, loss: 0.01, file mnist_4_1036.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.99 5: 0.14 6: 0.00 7: 0.00 8: 0.01 9: 0.02 
+test #216 target: 5,answer: 5, loss: 0.11, file mnist_5_1036.jpg
+probabilities: 0: 0.08 1: 0.00 2: 0.00 3: 0.17 4: 0.00 5: 0.57 6: 0.00 7: 0.04 8: 0.01 9: 0.00 
+test #217 target: 6,answer: 6, loss: 0.01, file mnist_6_1021.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.02 3: 0.00 4: 0.14 5: 0.00 6: 0.96 7: 0.00 8: 0.00 9: 0.00 
+test #218 target: 7,answer: 7, loss: 0.01, file mnist_7_1021.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.98 8: 0.00 9: 0.12 
+test #219 target: 8,answer: 8, loss: 0.00, file mnist_8_1027.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.03 6: 0.00 7: 0.00 8: 0.94 9: 0.00 
+test #220 target: 9,answer: 9, loss: 0.00, file mnist_9_1027.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.00 6: 0.00 7: 0.01 8: 0.09 9: 0.96 
+test #221 target: 0,answer: 0, loss: 0.00, file mnist_0_1042.jpg
+probabilities: 0: 1.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.02 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #222 target: 1,answer: 1, loss: 0.01, file mnist_1_1042.jpg
+probabilities: 0: 0.00 1: 0.98 2: 0.00 3: 0.04 4: 0.00 5: 0.01 6: 0.00 7: 0.01 8: 0.09 9: 0.02 
+test #223 target: 2,answer: 2, loss: 0.34, file mnist_2_1026.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.18 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #224 target: 3,answer: 3, loss: 0.35, file mnist_3_102.jpg
+probabilities: 0: 0.13 1: 0.00 2: 0.02 3: 0.20 4: 0.00 5: 0.18 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #225 target: 4,answer: 4, loss: 0.00, file mnist_4_1037.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.93 5: 0.01 6: 0.00 7: 0.00 8: 0.06 9: 0.03 
+test #226 target: 5,answer: 5, loss: 0.01, file mnist_5_1037.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.00 4: 0.17 5: 0.96 6: 0.01 7: 0.00 8: 0.02 9: 0.00 
+test #227 target: 6,answer: 6, loss: 0.06, file mnist_6_1024.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.32 6: 0.93 7: 0.00 8: 0.03 9: 0.00 
+test #228 target: 7,answer: 7, loss: 0.01, file mnist_7_1024.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.93 8: 0.00 9: 0.10 
+test #229 target: 8,answer: 8, loss: 0.00, file mnist_8_1028.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.03 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.97 9: 0.00 
+test #230 target: 9,answer: 9, loss: 0.00, file mnist_9_1028.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.04 5: 0.00 6: 0.00 7: 0.01 8: 0.01 9: 0.97 
+test #231 target: 0,answer: 0, loss: 0.02, file mnist_0_1043.jpg
+probabilities: 0: 0.90 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.15 6: 0.00 7: 0.01 8: 0.05 9: 0.00 
+test #232 target: 1,answer: 1, loss: 0.01, file mnist_1_1043.jpg
+probabilities: 0: 0.00 1: 0.93 2: 0.02 3: 0.04 4: 0.00 5: 0.01 6: 0.01 7: 0.00 8: 0.10 9: 0.01 
+test #233 target: 2,answer: 2, loss: 0.00, file mnist_2_1027.jpg
+probabilities: 0: 0.00 1: 0.00 2: 1.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #234 target: 3,answer: 3, loss: 0.00, file mnist_3_1030.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.96 4: 0.00 5: 0.01 6: 0.00 7: 0.04 8: 0.02 9: 0.00 
+test #235 target: 4,answer: 4, loss: 0.08, file mnist_4_103.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.03 3: 0.00 4: 0.60 5: 0.00 6: 0.05 7: 0.00 8: 0.01 9: 0.02 
+test #236 target: 5,answer: 5, loss: 0.14, file mnist_5_103.jpg
+probabilities: 0: 0.20 1: 0.00 2: 0.04 3: 0.02 4: 0.01 5: 0.54 6: 0.14 7: 0.00 8: 0.10 9: 0.01 
+test #237 target: 6,answer: 6, loss: 0.00, file mnist_6_1025.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.08 3: 0.00 4: 0.01 5: 0.00 6: 0.98 7: 0.00 8: 0.01 9: 0.00 
+test #238 target: 7,answer: 7, loss: 0.00, file mnist_7_1025.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.98 8: 0.01 9: 0.01 
+test #239 target: 8,answer: 8, loss: 0.00, file mnist_8_1030.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.90 9: 0.00 
+test #240 target: 9,answer: 9, loss: 0.02, file mnist_9_1030.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.02 4: 0.09 5: 0.01 6: 0.00 7: 0.01 8: 0.02 9: 0.83 
+test #241 target: 0,answer: 0, loss: 0.00, file mnist_0_1044.jpg
+probabilities: 0: 0.93 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.07 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #242 target: 1,answer: 1, loss: 0.01, file mnist_1_1044.jpg
+probabilities: 0: 0.00 1: 0.96 2: 0.01 3: 0.04 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.14 9: 0.01 
+test #243 target: 2,answer: 2, loss: 0.01, file mnist_2_102.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.88 3: 0.00 4: 0.00 5: 0.01 6: 0.09 7: 0.00 8: 0.06 9: 0.00 
+test #244 target: 3,answer: 3, loss: 0.00, file mnist_3_1031.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.03 3: 0.98 4: 0.00 5: 0.02 6: 0.00 7: 0.00 8: 0.03 9: 0.00 
+test #245 target: 4,answer: 4, loss: 0.01, file mnist_4_1040.jpg
+probabilities: 0: 0.00 1: 0.03 2: 0.00 3: 0.00 4: 0.90 5: 0.02 6: 0.02 7: 0.00 8: 0.06 9: 0.01 
+test #246 target: 5,answer: 5, loss: 0.05, file mnist_5_1040.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.13 4: 0.00 5: 0.78 6: 0.16 7: 0.00 8: 0.05 9: 0.00 
+test #247 target: 6,answer: 6, loss: 0.02, file mnist_6_1026.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.08 3: 0.00 4: 0.05 5: 0.00 6: 0.80 7: 0.00 8: 0.01 9: 0.00 
+test #248 target: 7,answer: 7, loss: 0.02, file mnist_7_1026.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.99 8: 0.00 9: 0.20 
+test #249 target: 8,answer: 8, loss: 0.00, file mnist_8_1031.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.04 6: 0.00 7: 0.00 8: 0.99 9: 0.00 
+test #250 target: 9,answer: 9, loss: 0.00, file mnist_9_1031.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.01 4: 0.03 5: 0.00 6: 0.00 7: 0.04 8: 0.02 9: 0.96 
+test #251 target: 0,answer: 0, loss: 0.00, file mnist_0_1048.jpg
+probabilities: 0: 0.99 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.04 6: 0.00 7: 0.00 8: 0.02 9: 0.00 
+test #252 target: 1,answer: 1, loss: 0.00, file mnist_1_1048.jpg
+probabilities: 0: 0.00 1: 0.93 2: 0.03 3: 0.02 4: 0.00 5: 0.00 6: 0.00 7: 0.05 8: 0.03 9: 0.00 
+test #253 target: 2,answer: 2, loss: 0.00, file mnist_2_1030.jpg
+probabilities: 0: 0.01 1: 0.00 2: 1.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #254 target: 3,answer: 3, loss: 0.02, file mnist_3_1032.jpg
+probabilities: 0: 0.05 1: 0.00 2: 0.03 3: 0.80 4: 0.00 5: 0.03 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #255 target: 4,answer: 4, loss: 0.01, file mnist_4_1041.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.95 5: 0.11 6: 0.00 7: 0.00 8: 0.01 9: 0.03 
+test #256 target: 5,answer: 5, loss: 0.02, file mnist_5_1041.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.94 6: 0.04 7: 0.00 8: 0.17 9: 0.00 
+test #257 target: 6,answer: 6, loss: 0.00, file mnist_6_1027.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.03 3: 0.00 4: 0.01 5: 0.01 6: 0.99 7: 0.00 8: 0.00 9: 0.00 
+test #258 target: 7,answer: 7, loss: 0.00, file mnist_7_1027.jpg
+probabilities: 0: 0.00 1: 0.01 2: 0.02 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.99 8: 0.00 9: 0.02 
+test #259 target: 8,answer: 8, loss: 0.01, file mnist_8_1032.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.07 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.87 9: 0.01 
+test #260 target: 9,answer: 9, loss: 0.00, file mnist_9_1032.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.02 5: 0.00 6: 0.00 7: 0.02 8: 0.00 9: 0.97 
+test #261 target: 0,answer: 0, loss: 0.01, file mnist_0_1049.jpg
+probabilities: 0: 0.95 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.12 6: 0.00 7: 0.01 8: 0.00 9: 0.00 
+test #262 target: 1,answer: 1, loss: 0.01, file mnist_1_1049.jpg
+probabilities: 0: 0.00 1: 0.94 2: 0.01 3: 0.06 4: 0.00 5: 0.01 6: 0.00 7: 0.01 8: 0.10 9: 0.01 
+test #263 target: 2,answer: 2, loss: 0.04, file mnist_2_1031.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.90 3: 0.25 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #264 target: 3,answer: 3, loss: 0.00, file mnist_3_1033.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 1.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #265 target: 4,answer: 4, loss: 0.07, file mnist_4_1042.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.83 5: 0.00 6: 0.00 7: 0.01 8: 0.02 9: 0.34 
+test #266 target: 5,answer: 5, loss: 0.02, file mnist_5_1042.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.09 4: 0.00 5: 0.84 6: 0.00 7: 0.00 8: 0.02 9: 0.03 
+test #267 target: 6,answer: 6, loss: 0.01, file mnist_6_1028.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.09 3: 0.00 4: 0.00 5: 0.02 6: 0.95 7: 0.00 8: 0.00 9: 0.00 
+test #268 target: 7,answer: 2, loss: 0.50, file mnist_7_1028.jpg
+probabilities: 0: 0.00 1: 0.10 2: 0.13 3: 0.01 4: 0.01 5: 0.00 6: 0.00 7: 0.01 8: 0.01 9: 0.00 
+test #269 target: 8,answer: 8, loss: 0.01, file mnist_8_1033.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.04 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.97 9: 0.11 
+test #270 target: 9,answer: 9, loss: 0.00, file mnist_9_1033.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.04 5: 0.00 6: 0.00 7: 0.02 8: 0.01 9: 0.96 
+test #271 target: 0,answer: 0, loss: 0.00, file mnist_0_1050.jpg
+probabilities: 0: 0.99 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #272 target: 1,answer: 8, loss: 0.57, file mnist_1_1050.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.09 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.36 9: 0.02 
+test #273 target: 2,answer: 2, loss: 0.00, file mnist_2_1032.jpg
+probabilities: 0: 0.00 1: 0.00 2: 1.00 3: 0.00 4: 0.00 5: 0.00 6: 0.01 7: 0.00 8: 0.00 9: 0.00 
+test #274 target: 3,answer: 3, loss: 0.00, file mnist_3_1034.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.95 4: 0.00 5: 0.07 6: 0.00 7: 0.00 8: 0.03 9: 0.00 
+test #275 target: 4,answer: 4, loss: 0.01, file mnist_4_1043.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.03 4: 0.94 5: 0.11 6: 0.04 7: 0.00 8: 0.02 9: 0.05 
+test #276 target: 5,answer: 5, loss: 0.01, file mnist_5_1043.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.05 4: 0.00 5: 0.88 6: 0.03 7: 0.00 8: 0.01 9: 0.00 
+test #277 target: 6,answer: 6, loss: 0.00, file mnist_6_1029.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.05 3: 0.00 4: 0.00 5: 0.02 6: 0.98 7: 0.00 8: 0.02 9: 0.00 
+test #278 target: 7,answer: 7, loss: 0.13, file mnist_7_1029.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.05 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.52 8: 0.03 9: 0.17 
+test #279 target: 8,answer: 8, loss: 0.00, file mnist_8_1034.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.04 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.99 9: 0.04 
+test #280 target: 9,answer: 9, loss: 0.00, file mnist_9_1034.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.00 6: 0.00 7: 0.06 8: 0.00 9: 0.99 
+test #281 target: 0,answer: 0, loss: 0.00, file mnist_0_1054.jpg
+probabilities: 0: 1.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #282 target: 1,answer: 1, loss: 0.00, file mnist_1_1054.jpg
+probabilities: 0: 0.00 1: 0.97 2: 0.01 3: 0.01 4: 0.00 5: 0.00 6: 0.01 7: 0.00 8: 0.03 9: 0.00 
+test #283 target: 2,answer: 2, loss: 0.00, file mnist_2_1033.jpg
+probabilities: 0: 0.00 1: 0.01 2: 1.00 3: 0.03 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #284 target: 3,answer: 3, loss: 0.00, file mnist_3_1035.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 1.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #285 target: 4,answer: 4, loss: 0.08, file mnist_4_1044.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.62 5: 0.09 6: 0.00 7: 0.00 8: 0.08 9: 0.08 
+test #286 target: 5,answer: 5, loss: 0.00, file mnist_5_1044.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.05 4: 0.00 5: 0.94 6: 0.01 7: 0.00 8: 0.02 9: 0.02 
+test #287 target: 6,answer: 6, loss: 0.07, file mnist_6_102.jpg
+probabilities: 0: 0.00 1: 0.17 2: 0.10 3: 0.01 4: 0.00 5: 0.01 6: 0.67 7: 0.00 8: 0.02 9: 0.00 
+test #288 target: 7,answer: 7, loss: 0.17, file mnist_7_102.jpg
+probabilities: 0: 0.00 1: 0.01 2: 0.06 3: 0.03 4: 0.00 5: 0.00 6: 0.00 7: 0.42 8: 0.00 9: 0.10 
+test #289 target: 8,answer: 8, loss: 0.00, file mnist_8_1035.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.02 3: 0.02 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.94 9: 0.00 
+test #290 target: 9,answer: 9, loss: 0.00, file mnist_9_1035.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.00 6: 0.00 7: 0.02 8: 0.00 9: 0.94 
+test #291 target: 0,answer: 0, loss: 0.00, file mnist_0_1055.jpg
+probabilities: 0: 0.99 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.03 8: 0.00 9: 0.00 
+test #292 target: 1,answer: 1, loss: 0.00, file mnist_1_1055.jpg
+probabilities: 0: 0.00 1: 0.97 2: 0.03 3: 0.03 4: 0.00 5: 0.01 6: 0.02 7: 0.03 8: 0.02 9: 0.01 
+test #293 target: 2,answer: 2, loss: 0.00, file mnist_2_1034.jpg
+probabilities: 0: 0.00 1: 0.00 2: 1.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #294 target: 3,answer: 3, loss: 0.00, file mnist_3_1036.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.04 3: 0.99 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #295 target: 4,answer: 4, loss: 0.00, file mnist_4_1045.jpg
+probabilities: 0: 0.00 1: 0.01 2: 0.00 3: 0.00 4: 0.98 5: 0.07 6: 0.01 7: 0.01 8: 0.05 9: 0.01 
+test #296 target: 5,answer: 5, loss: 0.00, file mnist_5_1045.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.96 6: 0.00 7: 0.00 8: 0.02 9: 0.00 
+test #297 target: 6,answer: 6, loss: 0.01, file mnist_6_1030.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.03 6: 0.90 7: 0.00 8: 0.02 9: 0.00 
+test #298 target: 7,answer: 7, loss: 0.01, file mnist_7_1030.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.02 5: 0.06 6: 0.00 7: 0.92 8: 0.00 9: 0.05 
+test #299 target: 8,answer: 8, loss: 0.04, file mnist_8_1036.jpg
+probabilities: 0: 0.03 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.11 6: 0.01 7: 0.00 8: 0.76 9: 0.00 
+test #300 target: 9,answer: 9, loss: 0.19, file mnist_9_1036.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.06 4: 0.01 5: 0.00 6: 0.00 7: 0.44 8: 0.00 9: 0.58 
+test #301 target: 0,answer: 0, loss: 0.00, file mnist_0_1056.jpg
+probabilities: 0: 1.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #302 target: 1,answer: 1, loss: 0.01, file mnist_1_1056.jpg
+probabilities: 0: 0.00 1: 0.95 2: 0.05 3: 0.04 4: 0.00 5: 0.02 6: 0.02 7: 0.02 8: 0.05 9: 0.01 
+test #303 target: 2,answer: 2, loss: 0.00, file mnist_2_1035.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.99 3: 0.00 4: 0.00 5: 0.00 6: 0.04 7: 0.00 8: 0.00 9: 0.00 
+test #304 target: 3,answer: 2, loss: 0.82, file mnist_3_1037.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.97 3: 0.17 4: 0.00 5: 0.00 6: 0.02 7: 0.00 8: 0.00 9: 0.00 
+test #305 target: 4,answer: 4, loss: 0.02, file mnist_4_1046.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.00 4: 0.88 5: 0.00 6: 0.01 7: 0.01 8: 0.00 9: 0.15 
+test #306 target: 5,answer: 5, loss: 0.00, file mnist_5_1046.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 1.00 6: 0.00 7: 0.00 8: 0.03 9: 0.00 
+test #307 target: 6,answer: 6, loss: 0.00, file mnist_6_1031.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.02 3: 0.00 4: 0.00 5: 0.01 6: 0.96 7: 0.00 8: 0.00 9: 0.00 
+test #308 target: 7,answer: 7, loss: 0.00, file mnist_7_1031.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.99 8: 0.00 9: 0.03 
+test #309 target: 8,answer: 8, loss: 0.00, file mnist_8_1037.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.07 6: 0.00 7: 0.00 8: 0.97 9: 0.00 
+test #310 target: 9,answer: 9, loss: 0.00, file mnist_9_1037.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.01 8: 0.01 9: 0.99 
+test #311 target: 0,answer: 0, loss: 0.00, file mnist_0_1057.jpg
+probabilities: 0: 0.99 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.04 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #312 target: 1,answer: 1, loss: 0.01, file mnist_1_1057.jpg
+probabilities: 0: 0.00 1: 0.90 2: 0.02 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.05 9: 0.00 
+test #313 target: 2,answer: 2, loss: 0.00, file mnist_2_1036.jpg
+probabilities: 0: 0.01 1: 0.00 2: 1.00 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #314 target: 3,answer: 3, loss: 0.00, file mnist_3_1038.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 1.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #315 target: 4,answer: 4, loss: 0.01, file mnist_4_1047.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.98 5: 0.07 6: 0.13 7: 0.00 8: 0.00 9: 0.00 
+test #316 target: 5,answer: 5, loss: 0.01, file mnist_5_1047.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.98 6: 0.00 7: 0.00 8: 0.13 9: 0.00 
+test #317 target: 6,answer: 8, loss: 0.49, file mnist_6_1032.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.12 3: 0.00 4: 0.00 5: 0.00 6: 0.02 7: 0.00 8: 0.13 9: 0.00 
+test #318 target: 7,answer: 7, loss: 0.00, file mnist_7_1032.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.99 8: 0.01 9: 0.02 
+test #319 target: 8,answer: 8, loss: 0.01, file mnist_8_1038.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.05 3: 0.04 4: 0.02 5: 0.02 6: 0.00 7: 0.00 8: 0.91 9: 0.02 
+test #320 target: 9,answer: 9, loss: 0.00, file mnist_9_1038.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.00 6: 0.00 7: 0.03 8: 0.06 9: 0.96 
+test #321 target: 0,answer: 0, loss: 0.00, file mnist_0_1058.jpg
+probabilities: 0: 0.99 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.04 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #322 target: 1,answer: 1, loss: 0.00, file mnist_1_1058.jpg
+probabilities: 0: 0.00 1: 0.96 2: 0.01 3: 0.02 4: 0.00 5: 0.00 6: 0.00 7: 0.05 8: 0.03 9: 0.01 
+test #323 target: 2,answer: 2, loss: 0.01, file mnist_2_1037.jpg
+probabilities: 0: 0.00 1: 0.05 2: 0.95 3: 0.09 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #324 target: 3,answer: 3, loss: 0.00, file mnist_3_1039.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.99 4: 0.00 5: 0.06 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #325 target: 4,answer: 4, loss: 0.01, file mnist_4_1048.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.91 5: 0.00 6: 0.01 7: 0.01 8: 0.04 9: 0.05 
+test #326 target: 5,answer: 5, loss: 0.00, file mnist_5_1048.jpg
+probabilities: 0: 0.00 1: 0.04 2: 0.01 3: 0.01 4: 0.00 5: 0.96 6: 0.00 7: 0.00 8: 0.03 9: 0.00 
+test #327 target: 6,answer: 6, loss: 0.00, file mnist_6_1033.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.00 4: 0.01 5: 0.04 6: 0.97 7: 0.00 8: 0.00 9: 0.00 
+test #328 target: 7,answer: 7, loss: 0.04, file mnist_7_1033.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.03 5: 0.01 6: 0.00 7: 0.74 8: 0.00 9: 0.10 
+test #329 target: 8,answer: 8, loss: 0.03, file mnist_8_1039.jpg
+probabilities: 0: 0.00 1: 0.01 2: 0.21 3: 0.00 4: 0.00 5: 0.00 6: 0.04 7: 0.00 8: 0.85 9: 0.00 
+test #330 target: 9,answer: 9, loss: 0.02, file mnist_9_1039.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.03 4: 0.08 5: 0.00 6: 0.00 7: 0.11 8: 0.01 9: 0.83 
+test #331 target: 0,answer: 0, loss: 0.00, file mnist_0_1059.jpg
+probabilities: 0: 1.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #332 target: 1,answer: 1, loss: 0.00, file mnist_1_1059.jpg
+probabilities: 0: 0.00 1: 0.97 2: 0.05 3: 0.01 4: 0.00 5: 0.00 6: 0.01 7: 0.00 8: 0.04 9: 0.00 
+test #333 target: 2,answer: 2, loss: 0.00, file mnist_2_1038.jpg
+probabilities: 0: 0.00 1: 0.00 2: 1.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #334 target: 3,answer: 5, loss: 0.34, file mnist_3_1040.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.43 4: 0.00 5: 0.59 6: 0.00 7: 0.00 8: 0.01 9: 0.01 
+test #335 target: 4,answer: 4, loss: 0.03, file mnist_4_1049.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.88 5: 0.20 6: 0.00 7: 0.01 8: 0.02 9: 0.11 
+test #336 target: 5,answer: 5, loss: 0.01, file mnist_5_1049.jpg
+probabilities: 0: 0.00 1: 0.08 2: 0.01 3: 0.00 4: 0.00 5: 0.93 6: 0.00 7: 0.00 8: 0.08 9: 0.00 
+test #337 target: 6,answer: 6, loss: 0.00, file mnist_6_1035.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.06 3: 0.00 4: 0.00 5: 0.00 6: 1.00 7: 0.00 8: 0.00 9: 0.00 
+test #338 target: 7,answer: 7, loss: 0.00, file mnist_7_1035.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.03 6: 0.00 7: 0.96 8: 0.01 9: 0.04 
+test #339 target: 8,answer: 8, loss: 0.02, file mnist_8_1040.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.02 5: 0.21 6: 0.00 7: 0.00 8: 0.97 9: 0.00 
+test #340 target: 9,answer: 9, loss: 0.02, file mnist_9_1040.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.00 6: 0.00 7: 0.20 8: 0.00 9: 0.93 
+test #341 target: 0,answer: 0, loss: 0.01, file mnist_0_1060.jpg
+probabilities: 0: 0.91 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.05 6: 0.00 7: 0.03 8: 0.01 9: 0.00 
+test #342 target: 1,answer: 1, loss: 0.01, file mnist_1_1060.jpg
+probabilities: 0: 0.00 1: 0.95 2: 0.00 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.12 9: 0.00 
+test #343 target: 2,answer: 2, loss: 0.00, file mnist_2_1039.jpg
+probabilities: 0: 0.01 1: 0.00 2: 1.00 3: 0.00 4: 0.00 5: 0.00 6: 0.01 7: 0.00 8: 0.00 9: 0.00 
+test #344 target: 3,answer: 3, loss: 0.00, file mnist_3_1041.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.98 4: 0.00 5: 0.07 6: 0.00 7: 0.00 8: 0.03 9: 0.00 
+test #345 target: 4,answer: 4, loss: 0.03, file mnist_4_104.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.99 5: 0.00 6: 0.01 7: 0.00 8: 0.00 9: 0.26 
+test #346 target: 5,answer: 5, loss: 0.06, file mnist_5_104.jpg
+probabilities: 0: 0.03 1: 0.00 2: 0.00 3: 0.02 4: 0.00 5: 0.72 6: 0.00 7: 0.00 8: 0.20 9: 0.00 
+test #347 target: 6,answer: 6, loss: 0.01, file mnist_6_1038.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.89 7: 0.00 8: 0.00 9: 0.00 
+test #348 target: 7,answer: 7, loss: 0.00, file mnist_7_1038.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.02 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.99 8: 0.00 9: 0.02 
+test #349 target: 8,answer: 8, loss: 0.00, file mnist_8_1041.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.04 6: 0.00 7: 0.00 8: 0.99 9: 0.00 
+test #350 target: 9,answer: 9, loss: 0.04, file mnist_9_1041.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.27 5: 0.00 6: 0.00 7: 0.00 8: 0.01 9: 0.88 
+test #351 target: 0,answer: 0, loss: 0.00, file mnist_0_1061.jpg
+probabilities: 0: 1.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.02 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #352 target: 1,answer: 1, loss: 0.01, file mnist_1_1061.jpg
+probabilities: 0: 0.00 1: 0.97 2: 0.08 3: 0.00 4: 0.00 5: 0.00 6: 0.06 7: 0.00 8: 0.01 9: 0.00 
+test #353 target: 2,answer: 2, loss: 0.01, file mnist_2_103.jpg
+probabilities: 0: 0.08 1: 0.00 2: 0.91 3: 0.01 4: 0.00 5: 0.01 6: 0.07 7: 0.00 8: 0.01 9: 0.00 
+test #354 target: 3,answer: 3, loss: 0.00, file mnist_3_1042.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.97 4: 0.00 5: 0.08 6: 0.00 7: 0.00 8: 0.01 9: 0.01 
+test #355 target: 4,answer: 4, loss: 0.01, file mnist_4_1050.jpg
+probabilities: 0: 0.00 1: 0.01 2: 0.00 3: 0.00 4: 0.94 5: 0.12 6: 0.01 7: 0.00 8: 0.09 9: 0.02 
+test #356 target: 5,answer: 5, loss: 0.00, file mnist_5_1050.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.00 3: 0.02 4: 0.00 5: 0.97 6: 0.00 7: 0.00 8: 0.04 9: 0.00 
+test #357 target: 6,answer: 8, loss: 0.52, file mnist_6_1039.jpg
+probabilities: 0: 0.07 1: 0.00 2: 0.04 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.18 9: 0.00 
+test #358 target: 7,answer: 7, loss: 0.13, file mnist_7_1039.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.00 4: 0.05 5: 0.11 6: 0.00 7: 0.54 8: 0.00 9: 0.18 
+test #359 target: 8,answer: 8, loss: 0.00, file mnist_8_1042.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.02 3: 0.03 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.92 9: 0.01 
+test #360 target: 9,answer: 9, loss: 0.06, file mnist_9_1042.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.03 4: 0.01 5: 0.01 6: 0.00 7: 0.29 8: 0.01 9: 0.82 
+test #361 target: 0,answer: 0, loss: 0.00, file mnist_0_1062.jpg
+probabilities: 0: 1.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #362 target: 1,answer: 1, loss: 0.01, file mnist_1_1062.jpg
+probabilities: 0: 0.00 1: 0.91 2: 0.06 3: 0.05 4: 0.00 5: 0.01 6: 0.01 7: 0.01 8: 0.06 9: 0.01 
+test #363 target: 2,answer: 2, loss: 0.08, file mnist_2_1040.jpg
+probabilities: 0: 0.00 1: 0.02 2: 0.81 3: 0.02 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.36 9: 0.00 
+test #364 target: 3,answer: 3, loss: 0.05, file mnist_3_1043.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.07 3: 0.71 4: 0.00 5: 0.11 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #365 target: 4,answer: 4, loss: 0.02, file mnist_4_1051.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.12 4: 0.94 5: 0.01 6: 0.00 7: 0.00 8: 0.00 9: 0.17 
+test #366 target: 5,answer: 5, loss: 0.01, file mnist_5_1051.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.01 3: 0.01 4: 0.05 5: 0.93 6: 0.01 7: 0.00 8: 0.14 9: 0.00 
+test #367 target: 6,answer: 6, loss: 0.09, file mnist_6_103.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.73 7: 0.00 8: 0.31 9: 0.00 
+test #368 target: 7,answer: 7, loss: 0.00, file mnist_7_103.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.98 8: 0.00 9: 0.05 
+test #369 target: 8,answer: 8, loss: 0.00, file mnist_8_1043.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.05 6: 0.00 7: 0.00 8: 0.97 9: 0.00 
+test #370 target: 9,answer: 9, loss: 0.00, file mnist_9_1043.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.00 5: 0.02 6: 0.00 7: 0.06 8: 0.01 9: 0.95 
+test #371 target: 0,answer: 0, loss: 0.00, file mnist_0_1063.jpg
+probabilities: 0: 0.98 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.03 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #372 target: 1,answer: 1, loss: 0.01, file mnist_1_1063.jpg
+probabilities: 0: 0.00 1: 0.95 2: 0.01 3: 0.06 4: 0.00 5: 0.00 6: 0.01 7: 0.12 8: 0.02 9: 0.05 
+test #373 target: 2,answer: 2, loss: 0.00, file mnist_2_1041.jpg
+probabilities: 0: 0.05 1: 0.00 2: 0.96 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.01 9: 0.02 
+test #374 target: 3,answer: 7, loss: 0.68, file mnist_3_1044.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.03 3: 0.27 4: 0.00 5: 0.00 6: 0.00 7: 0.90 8: 0.00 9: 0.08 
+test #375 target: 4,answer: 4, loss: 0.00, file mnist_4_1052.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.99 5: 0.03 6: 0.01 7: 0.00 8: 0.00 9: 0.01 
+test #376 target: 5,answer: 5, loss: 0.01, file mnist_5_1052.jpg
+probabilities: 0: 0.07 1: 0.00 2: 0.00 3: 0.01 4: 0.00 5: 0.97 6: 0.00 7: 0.01 8: 0.11 9: 0.00 
+test #377 target: 6,answer: 6, loss: 0.00, file mnist_6_1048.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.02 6: 1.00 7: 0.00 8: 0.00 9: 0.00 
+test #378 target: 7,answer: 7, loss: 0.00, file mnist_7_1048.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 1.00 8: 0.00 9: 0.00 
+test #379 target: 8,answer: 8, loss: 0.13, file mnist_8_1044.jpg
+probabilities: 0: 0.00 1: 0.11 2: 0.03 3: 0.05 4: 0.00 5: 0.31 6: 0.06 7: 0.00 8: 0.62 9: 0.01 
+test #380 target: 9,answer: 9, loss: 0.03, file mnist_9_1044.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.02 4: 0.08 5: 0.03 6: 0.01 7: 0.02 8: 0.02 9: 0.76 
+test #381 target: 0,answer: 0, loss: 0.00, file mnist_0_1064.jpg
+probabilities: 0: 0.99 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.01 6: 0.01 7: 0.00 8: 0.01 9: 0.00 
+test #382 target: 1,answer: 1, loss: 0.00, file mnist_1_1064.jpg
+probabilities: 0: 0.00 1: 0.96 2: 0.02 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.04 9: 0.00 
+test #383 target: 2,answer: 2, loss: 0.00, file mnist_2_1042.jpg
+probabilities: 0: 0.10 1: 0.00 2: 0.99 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #384 target: 3,answer: 3, loss: 0.02, file mnist_3_1045.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.94 4: 0.00 5: 0.17 6: 0.00 7: 0.01 8: 0.00 9: 0.00 
+test #385 target: 4,answer: 4, loss: 0.01, file mnist_4_1053.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.94 5: 0.05 6: 0.00 7: 0.02 8: 0.00 9: 0.08 
+test #386 target: 5,answer: 5, loss: 0.04, file mnist_5_1053.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.22 4: 0.00 5: 0.84 6: 0.00 7: 0.00 8: 0.02 9: 0.02 
+test #387 target: 6,answer: 6, loss: 0.10, file mnist_6_1049.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.19 3: 0.00 4: 0.00 5: 0.00 6: 0.60 7: 0.00 8: 0.00 9: 0.00 
+test #388 target: 7,answer: 2, loss: 0.78, file mnist_7_1049.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.83 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.06 8: 0.01 9: 0.00 
+test #389 target: 8,answer: 8, loss: 0.03, file mnist_8_1045.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.14 6: 0.01 7: 0.00 8: 0.82 9: 0.00 
+test #390 target: 9,answer: 9, loss: 0.01, file mnist_9_1045.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.09 5: 0.00 6: 0.00 7: 0.08 8: 0.01 9: 0.89 
+test #391 target: 0,answer: 0, loss: 0.00, file mnist_0_1065.jpg
+probabilities: 0: 0.98 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.05 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #392 target: 1,answer: 5, loss: 0.59, file mnist_1_1065.jpg
+probabilities: 0: 0.00 1: 0.09 2: 0.04 3: 0.09 4: 0.09 5: 0.53 6: 0.12 7: 0.00 8: 0.16 9: 0.01 
+test #393 target: 2,answer: 2, loss: 0.00, file mnist_2_1043.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.93 3: 0.04 4: 0.00 5: 0.00 6: 0.00 7: 0.04 8: 0.00 9: 0.00 
+test #394 target: 3,answer: 3, loss: 0.00, file mnist_3_1046.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.97 4: 0.00 5: 0.03 6: 0.00 7: 0.00 8: 0.02 9: 0.00 
+test #395 target: 4,answer: 4, loss: 0.00, file mnist_4_1054.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.97 5: 0.00 6: 0.01 7: 0.00 8: 0.02 9: 0.03 
+test #396 target: 5,answer: 5, loss: 0.00, file mnist_5_1054.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.06 4: 0.00 5: 0.97 6: 0.00 7: 0.00 8: 0.01 9: 0.05 
+test #397 target: 6,answer: 6, loss: 0.00, file mnist_6_104.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.04 3: 0.00 4: 0.00 5: 0.03 6: 0.92 7: 0.00 8: 0.02 9: 0.00 
+test #398 target: 7,answer: 4, loss: 0.60, file mnist_7_104.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.85 5: 0.01 6: 0.00 7: 0.32 8: 0.01 9: 0.13 
+test #399 target: 8,answer: 8, loss: 0.00, file mnist_8_1046.jpg
+probabilities: 0: 0.00 1: 0.01 2: 0.02 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.98 9: 0.01 
+test #400 target: 9,answer: 9, loss: 0.00, file mnist_9_1046.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.00 6: 0.00 7: 0.07 8: 0.01 9: 0.95 
+test #401 target: 0,answer: 0, loss: 0.00, file mnist_0_1066.jpg
+probabilities: 0: 0.99 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.07 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #402 target: 1,answer: 1, loss: 0.00, file mnist_1_1066.jpg
+probabilities: 0: 0.00 1: 0.97 2: 0.04 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.02 8: 0.03 9: 0.00 
+test #403 target: 2,answer: 3, loss: 0.31, file mnist_2_1044.jpg
+probabilities: 0: 0.03 1: 0.00 2: 0.44 3: 0.56 4: 0.00 5: 0.01 6: 0.01 7: 0.02 8: 0.00 9: 0.00 
+test #404 target: 3,answer: 3, loss: 0.01, file mnist_3_1047.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.00 3: 0.91 4: 0.00 5: 0.06 6: 0.00 7: 0.11 8: 0.00 9: 0.00 
+test #405 target: 4,answer: 4, loss: 0.03, file mnist_4_1055.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.00 4: 0.90 5: 0.00 6: 0.01 7: 0.00 8: 0.02 9: 0.24 
+test #406 target: 5,answer: 5, loss: 0.00, file mnist_5_1055.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.03 5: 0.99 6: 0.00 7: 0.00 8: 0.07 9: 0.00 
+test #407 target: 6,answer: 6, loss: 0.01, file mnist_6_1058.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.03 5: 0.00 6: 0.90 7: 0.00 8: 0.02 9: 0.00 
+test #408 target: 7,answer: 7, loss: 0.00, file mnist_7_1058.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 1.00 8: 0.00 9: 0.00 
+test #409 target: 8,answer: 8, loss: 0.01, file mnist_8_1047.jpg
+probabilities: 0: 0.08 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.09 6: 0.00 7: 0.00 8: 0.90 9: 0.00 
+test #410 target: 9,answer: 9, loss: 0.02, file mnist_9_1047.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.00 4: 0.06 5: 0.02 6: 0.01 7: 0.05 8: 0.02 9: 0.83 
+test #411 target: 0,answer: 0, loss: 0.00, file mnist_0_1067.jpg
+probabilities: 0: 0.99 1: 0.00 2: 0.02 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #412 target: 1,answer: 1, loss: 0.00, file mnist_1_1067.jpg
+probabilities: 0: 0.00 1: 0.97 2: 0.02 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.03 9: 0.00 
+test #413 target: 2,answer: 2, loss: 0.00, file mnist_2_1045.jpg
+probabilities: 0: 0.00 1: 0.01 2: 0.97 3: 0.03 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #414 target: 3,answer: 3, loss: 0.00, file mnist_3_104.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.98 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.02 9: 0.00 
+test #415 target: 4,answer: 6, loss: 0.74, file mnist_4_1056.jpg
+probabilities: 0: 0.28 1: 0.00 2: 0.04 3: 0.00 4: 0.00 5: 0.01 6: 0.64 7: 0.00 8: 0.00 9: 0.00 
+test #416 target: 5,answer: 5, loss: 0.00, file mnist_5_1056.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.00 5: 0.98 6: 0.00 7: 0.00 8: 0.05 9: 0.00 
+test #417 target: 6,answer: 6, loss: 0.00, file mnist_6_1059.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.07 3: 0.00 4: 0.00 5: 0.00 6: 0.99 7: 0.00 8: 0.00 9: 0.00 
+test #418 target: 7,answer: 7, loss: 0.02, file mnist_7_1059.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.03 3: 0.20 4: 0.00 5: 0.00 6: 0.00 7: 0.93 8: 0.00 9: 0.04 
+test #419 target: 8,answer: 8, loss: 0.03, file mnist_8_1050.jpg
+probabilities: 0: 0.03 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.21 6: 0.01 7: 0.00 8: 0.87 9: 0.00 
+test #420 target: 9,answer: 9, loss: 0.10, file mnist_9_1050.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.35 5: 0.00 6: 0.00 7: 0.04 8: 0.02 9: 0.74 
+test #421 target: 0,answer: 0, loss: 0.00, file mnist_0_1068.jpg
+probabilities: 0: 0.97 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.03 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #422 target: 1,answer: 1, loss: 0.01, file mnist_1_1068.jpg
+probabilities: 0: 0.00 1: 0.95 2: 0.02 3: 0.02 4: 0.00 5: 0.00 6: 0.00 7: 0.01 8: 0.08 9: 0.00 
+test #423 target: 2,answer: 2, loss: 0.00, file mnist_2_1046.jpg
+probabilities: 0: 0.00 1: 0.00 2: 1.00 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #424 target: 3,answer: 3, loss: 0.00, file mnist_3_1050.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.99 4: 0.00 5: 0.05 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #425 target: 4,answer: 4, loss: 0.01, file mnist_4_1057.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.93 5: 0.02 6: 0.00 7: 0.00 8: 0.00 9: 0.10 
+test #426 target: 5,answer: 5, loss: 0.12, file mnist_5_1057.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.33 4: 0.00 5: 0.72 6: 0.00 7: 0.00 8: 0.22 9: 0.01 
+test #427 target: 6,answer: 6, loss: 0.01, file mnist_6_105.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.11 6: 0.97 7: 0.00 8: 0.00 9: 0.00 
+test #428 target: 7,answer: 7, loss: 0.01, file mnist_7_105.jpg
+probabilities: 0: 0.07 1: 0.00 2: 0.01 3: 0.10 4: 0.00 5: 0.00 6: 0.00 7: 0.99 8: 0.00 9: 0.00 
+test #429 target: 8,answer: 8, loss: 0.01, file mnist_8_1051.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.01 3: 0.00 4: 0.01 5: 0.08 6: 0.01 7: 0.00 8: 0.94 9: 0.00 
+test #430 target: 9,answer: 9, loss: 0.00, file mnist_9_1051.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.00 6: 0.00 7: 0.05 8: 0.01 9: 0.95 
+test #431 target: 0,answer: 0, loss: 0.02, file mnist_0_1069.jpg
+probabilities: 0: 0.91 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.16 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #432 target: 1,answer: 1, loss: 0.00, file mnist_1_1069.jpg
+probabilities: 0: 0.00 1: 0.95 2: 0.00 3: 0.03 4: 0.00 5: 0.00 6: 0.00 7: 0.02 8: 0.04 9: 0.01 
+test #433 target: 2,answer: 2, loss: 0.00, file mnist_2_1047.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.99 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.02 9: 0.00 
+test #434 target: 3,answer: 3, loss: 0.00, file mnist_3_1051.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 1.00 4: 0.00 5: 0.05 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #435 target: 4,answer: 5, loss: 0.37, file mnist_4_105.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.20 5: 0.27 6: 0.03 7: 0.00 8: 0.01 9: 0.20 
+test #436 target: 5,answer: 5, loss: 0.00, file mnist_5_105.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.08 4: 0.00 5: 0.96 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #437 target: 6,answer: 6, loss: 0.00, file mnist_6_1060.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.06 6: 0.96 7: 0.00 8: 0.01 9: 0.00 
+test #438 target: 7,answer: 7, loss: 0.00, file mnist_7_1060.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 1.00 8: 0.01 9: 0.01 
+test #439 target: 8,answer: 8, loss: 0.01, file mnist_8_1052.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.00 4: 0.11 5: 0.01 6: 0.04 7: 0.00 8: 0.97 9: 0.00 
+test #440 target: 9,answer: 9, loss: 0.02, file mnist_9_1052.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.15 4: 0.03 5: 0.02 6: 0.00 7: 0.02 8: 0.02 9: 0.92 
+test #441 target: 0,answer: 0, loss: 0.00, file mnist_0_1070.jpg
+probabilities: 0: 0.99 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #442 target: 1,answer: 1, loss: 0.01, file mnist_1_1070.jpg
+probabilities: 0: 0.00 1: 0.93 2: 0.00 3: 0.02 4: 0.00 5: 0.00 6: 0.00 7: 0.06 8: 0.04 9: 0.02 
+test #443 target: 2,answer: 2, loss: 0.25, file mnist_2_1050.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.38 3: 0.01 4: 0.36 5: 0.00 6: 0.01 7: 0.00 8: 0.02 9: 0.00 
+test #444 target: 3,answer: 8, loss: 0.48, file mnist_3_1052.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.05 4: 0.06 5: 0.01 6: 0.00 7: 0.00 8: 0.22 9: 0.00 
+test #445 target: 4,answer: 4, loss: 0.04, file mnist_4_1060.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.84 5: 0.00 6: 0.00 7: 0.00 8: 0.01 9: 0.23 
+test #446 target: 5,answer: 5, loss: 0.15, file mnist_5_1060.jpg
+probabilities: 0: 0.00 1: 0.01 2: 0.02 3: 0.01 4: 0.00 5: 0.46 6: 0.01 7: 0.00 8: 0.02 9: 0.00 
+test #447 target: 6,answer: 6, loss: 0.01, file mnist_6_1061.jpg
+probabilities: 0: 0.03 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.11 6: 0.89 7: 0.00 8: 0.02 9: 0.00 
+test #448 target: 7,answer: 7, loss: 0.00, file mnist_7_1061.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 1.00 8: 0.00 9: 0.00 
+test #449 target: 8,answer: 8, loss: 0.11, file mnist_8_1053.jpg
+probabilities: 0: 0.08 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.20 6: 0.02 7: 0.00 8: 0.58 9: 0.00 
+test #450 target: 9,answer: 9, loss: 0.01, file mnist_9_1053.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.12 8: 0.01 9: 0.96 
+test #451 target: 0,answer: 0, loss: 0.00, file mnist_0_1071.jpg
+probabilities: 0: 0.98 1: 0.00 2: 0.03 3: 0.00 4: 0.00 5: 0.02 6: 0.02 7: 0.00 8: 0.00 9: 0.00 
+test #452 target: 1,answer: 1, loss: 0.01, file mnist_1_1071.jpg
+probabilities: 0: 0.00 1: 0.93 2: 0.03 3: 0.04 4: 0.01 5: 0.01 6: 0.01 7: 0.12 8: 0.03 9: 0.03 
+test #453 target: 2,answer: 2, loss: 0.00, file mnist_2_1051.jpg
+probabilities: 0: 0.00 1: 0.00 2: 1.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #454 target: 3,answer: 3, loss: 0.06, file mnist_3_1053.jpg
+probabilities: 0: 0.00 1: 0.01 2: 0.01 3: 0.88 4: 0.01 5: 0.01 6: 0.00 7: 0.00 8: 0.32 9: 0.04 
+test #455 target: 4,answer: 4, loss: 0.00, file mnist_4_1061.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.97 5: 0.02 6: 0.00 7: 0.00 8: 0.05 9: 0.02 
+test #456 target: 5,answer: 5, loss: 0.00, file mnist_5_1061.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.04 4: 0.00 5: 0.93 6: 0.00 7: 0.00 8: 0.02 9: 0.01 
+test #457 target: 6,answer: 6, loss: 0.00, file mnist_6_1062.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.00 5: 0.02 6: 0.92 7: 0.00 8: 0.02 9: 0.00 
+test #458 target: 7,answer: 7, loss: 0.00, file mnist_7_1062.jpg
+probabilities: 0: 0.03 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 1.00 8: 0.00 9: 0.01 
+test #459 target: 8,answer: 8, loss: 0.11, file mnist_8_1054.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.02 4: 0.00 5: 0.42 6: 0.00 7: 0.00 8: 0.78 9: 0.02 
+test #460 target: 9,answer: 9, loss: 0.01, file mnist_9_1054.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.07 5: 0.00 6: 0.00 7: 0.08 8: 0.01 9: 0.90 
+test #461 target: 0,answer: 0, loss: 0.00, file mnist_0_1072.jpg
+probabilities: 0: 0.99 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.06 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #462 target: 1,answer: 1, loss: 0.01, file mnist_1_1072.jpg
+probabilities: 0: 0.00 1: 0.87 2: 0.02 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.10 9: 0.00 
+test #463 target: 2,answer: 2, loss: 0.00, file mnist_2_1052.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.98 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.06 9: 0.00 
+test #464 target: 3,answer: 3, loss: 0.03, file mnist_3_1054.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.88 4: 0.00 5: 0.20 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #465 target: 4,answer: 4, loss: 0.00, file mnist_4_1062.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 1.00 5: 0.00 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #466 target: 5,answer: 2, loss: 0.54, file mnist_5_1062.jpg
+probabilities: 0: 0.00 1: 0.10 2: 0.34 3: 0.00 4: 0.00 5: 0.02 6: 0.01 7: 0.00 8: 0.02 9: 0.00 
+test #467 target: 6,answer: 6, loss: 0.09, file mnist_6_1063.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.01 3: 0.06 4: 0.00 5: 0.10 6: 0.60 7: 0.00 8: 0.00 9: 0.00 
+test #468 target: 7,answer: 7, loss: 0.00, file mnist_7_1063.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 1.00 8: 0.00 9: 0.00 
+test #469 target: 8,answer: 8, loss: 0.00, file mnist_8_1055.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.04 6: 0.00 7: 0.00 8: 0.95 9: 0.01 
+test #470 target: 9,answer: 9, loss: 0.16, file mnist_9_1055.jpg
+probabilities: 0: 0.05 1: 0.00 2: 0.00 3: 0.00 4: 0.12 5: 0.21 6: 0.06 7: 0.00 8: 0.11 9: 0.50 
+test #471 target: 0,answer: 0, loss: 0.01, file mnist_0_1073.jpg
+probabilities: 0: 0.93 1: 0.00 2: 0.02 3: 0.00 4: 0.00 5: 0.11 6: 0.00 7: 0.00 8: 0.04 9: 0.02 
+test #472 target: 1,answer: 1, loss: 0.00, file mnist_1_1073.jpg
+probabilities: 0: 0.00 1: 0.96 2: 0.03 3: 0.01 4: 0.00 5: 0.00 6: 0.01 7: 0.00 8: 0.05 9: 0.00 
+test #473 target: 2,answer: 2, loss: 0.00, file mnist_2_1053.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.97 3: 0.00 4: 0.00 5: 0.00 6: 0.01 7: 0.00 8: 0.05 9: 0.00 
+test #474 target: 3,answer: 3, loss: 0.20, file mnist_3_1055.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.43 4: 0.00 5: 0.24 6: 0.00 7: 0.02 8: 0.08 9: 0.00 
+test #475 target: 4,answer: 4, loss: 0.00, file mnist_4_1063.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.99 5: 0.00 6: 0.03 7: 0.00 8: 0.00 9: 0.01 
+test #476 target: 5,answer: 2, loss: 0.52, file mnist_5_1063.jpg
+probabilities: 0: 0.00 1: 0.15 2: 0.28 3: 0.00 4: 0.00 5: 0.03 6: 0.01 7: 0.00 8: 0.00 9: 0.00 
+test #477 target: 6,answer: 6, loss: 0.00, file mnist_6_1064.jpg
+probabilities: 0: 0.00 1: 0.01 2: 0.06 3: 0.00 4: 0.00 5: 0.04 6: 0.96 7: 0.00 8: 0.03 9: 0.00 
+test #478 target: 7,answer: 7, loss: 0.00, file mnist_7_1064.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.99 8: 0.00 9: 0.03 
+test #479 target: 8,answer: 8, loss: 0.05, file mnist_8_1056.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.04 3: 0.00 4: 0.00 5: 0.01 6: 0.14 7: 0.00 8: 0.71 9: 0.02 
+test #480 target: 9,answer: 9, loss: 0.21, file mnist_9_1056.jpg
+probabilities: 0: 0.00 1: 0.08 2: 0.00 3: 0.01 4: 0.00 5: 0.04 6: 0.00 7: 0.03 8: 0.27 9: 0.42 
+test #481 target: 0,answer: 0, loss: 0.07, file mnist_0_1074.jpg
+probabilities: 0: 0.67 1: 0.00 2: 0.00 3: 0.02 4: 0.00 5: 0.20 6: 0.00 7: 0.01 8: 0.00 9: 0.00 
+test #482 target: 1,answer: 1, loss: 0.01, file mnist_1_1074.jpg
+probabilities: 0: 0.00 1: 0.97 2: 0.01 3: 0.07 4: 0.00 5: 0.01 6: 0.01 7: 0.06 8: 0.02 9: 0.03 
+test #483 target: 2,answer: 2, loss: 0.00, file mnist_2_1054.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.99 3: 0.00 4: 0.00 5: 0.00 6: 0.01 7: 0.00 8: 0.01 9: 0.00 
+test #484 target: 3,answer: 3, loss: 0.00, file mnist_3_1056.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.99 4: 0.00 5: 0.02 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #485 target: 4,answer: 4, loss: 0.04, file mnist_4_1066.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.77 5: 0.05 6: 0.00 7: 0.01 8: 0.02 9: 0.17 
+test #486 target: 5,answer: 5, loss: 0.19, file mnist_5_1066.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.12 4: 0.04 5: 0.55 6: 0.01 7: 0.00 8: 0.06 9: 0.39 
+test #487 target: 6,answer: 6, loss: 0.09, file mnist_6_1065.jpg
+probabilities: 0: 0.36 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.02 6: 0.77 7: 0.00 8: 0.00 9: 0.00 
+test #488 target: 7,answer: 7, loss: 0.00, file mnist_7_1065.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.05 3: 0.02 4: 0.00 5: 0.00 6: 0.00 7: 0.98 8: 0.00 9: 0.03 
+test #489 target: 8,answer: 8, loss: 0.09, file mnist_8_1057.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.35 4: 0.00 5: 0.03 6: 0.00 7: 0.00 8: 0.77 9: 0.00 
+test #490 target: 9,answer: 9, loss: 0.01, file mnist_9_1057.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.08 5: 0.00 6: 0.00 7: 0.00 8: 0.03 9: 0.89 
+test #491 target: 0,answer: 0, loss: 0.00, file mnist_0_1075.jpg
+probabilities: 0: 0.95 1: 0.00 2: 0.08 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #492 target: 1,answer: 1, loss: 0.00, file mnist_1_1075.jpg
+probabilities: 0: 0.00 1: 0.99 2: 0.01 3: 0.02 4: 0.00 5: 0.00 6: 0.01 7: 0.03 8: 0.01 9: 0.01 
+test #493 target: 2,answer: 8, loss: 0.30, file mnist_2_1055.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.40 3: 0.14 4: 0.00 5: 0.00 6: 0.00 7: 0.01 8: 0.47 9: 0.00 
+test #494 target: 3,answer: 3, loss: 0.36, file mnist_3_1057.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.54 3: 0.54 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.47 9: 0.00 
+test #495 target: 4,answer: 4, loss: 0.01, file mnist_4_1068.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.01 4: 0.89 5: 0.02 6: 0.01 7: 0.00 8: 0.01 9: 0.10 
+test #496 target: 5,answer: 5, loss: 0.06, file mnist_5_1068.jpg
+probabilities: 0: 0.00 1: 0.15 2: 0.01 3: 0.01 4: 0.01 5: 0.71 6: 0.01 7: 0.00 8: 0.13 9: 0.00 
+test #497 target: 6,answer: 6, loss: 0.04, file mnist_6_1066.jpg
+probabilities: 0: 0.00 1: 0.02 2: 0.05 3: 0.00 4: 0.18 5: 0.03 6: 0.80 7: 0.00 8: 0.01 9: 0.00 
+test #498 target: 7,answer: 7, loss: 0.00, file mnist_7_1066.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 1.00 8: 0.00 9: 0.00 
+test #499 target: 8,answer: 3, loss: 0.32, file mnist_8_1068.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.29 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.25 9: 0.01 
+test #500 target: 9,answer: 9, loss: 0.02, file mnist_9_1068.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.02 5: 0.01 6: 0.00 7: 0.02 8: 0.07 9: 0.84 
+test #501 target: 0,answer: 0, loss: 0.00, file mnist_0_1076.jpg
+probabilities: 0: 0.98 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.06 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #502 target: 1,answer: 1, loss: 0.01, file mnist_1_1076.jpg
+probabilities: 0: 0.00 1: 0.93 2: 0.00 3: 0.04 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.07 9: 0.01 
+test #503 target: 2,answer: 2, loss: 0.00, file mnist_2_1056.jpg
+probabilities: 0: 0.00 1: 0.00 2: 1.00 3: 0.02 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #504 target: 3,answer: 3, loss: 0.01, file mnist_3_105.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.97 4: 0.00 5: 0.10 6: 0.00 7: 0.00 8: 0.03 9: 0.00 
+test #505 target: 4,answer: 4, loss: 0.00, file mnist_4_1069.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.97 5: 0.00 6: 0.02 7: 0.00 8: 0.02 9: 0.04 
+test #506 target: 5,answer: 5, loss: 0.08, file mnist_5_1069.jpg
+probabilities: 0: 0.04 1: 0.00 2: 0.00 3: 0.19 4: 0.00 5: 0.66 6: 0.00 7: 0.00 8: 0.01 9: 0.01 
+test #507 target: 6,answer: 6, loss: 0.00, file mnist_6_1067.jpg
+probabilities: 0: 0.03 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.05 6: 0.97 7: 0.00 8: 0.00 9: 0.00 
+test #508 target: 7,answer: 7, loss: 0.00, file mnist_7_1067.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 1.00 8: 0.00 9: 0.00 
+test #509 target: 8,answer: 8, loss: 0.06, file mnist_8_1069.jpg
+probabilities: 0: 0.00 1: 0.01 2: 0.00 3: 0.10 4: 0.00 5: 0.02 6: 0.00 7: 0.01 8: 0.67 9: 0.07 
+test #510 target: 9,answer: 9, loss: 0.02, file mnist_9_1069.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.02 4: 0.09 5: 0.00 6: 0.00 7: 0.02 8: 0.01 9: 0.83 
+test #511 target: 0,answer: 0, loss: 0.01, file mnist_0_1077.jpg
+probabilities: 0: 0.97 1: 0.00 2: 0.00 3: 0.01 4: 0.00 5: 0.13 6: 0.00 7: 0.00 8: 0.02 9: 0.00 
+test #512 target: 1,answer: 1, loss: 0.01, file mnist_1_1077.jpg
+probabilities: 0: 0.00 1: 0.93 2: 0.00 3: 0.06 4: 0.01 5: 0.02 6: 0.01 7: 0.01 8: 0.05 9: 0.02 
+test #513 target: 2,answer: 2, loss: 0.00, file mnist_2_1057.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.99 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.03 9: 0.00 
+test #514 target: 3,answer: 3, loss: 0.01, file mnist_3_1068.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.13 3: 0.97 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #515 target: 4,answer: 4, loss: 0.08, file mnist_4_106.jpg
+probabilities: 0: 0.00 1: 0.02 2: 0.00 3: 0.17 4: 0.70 5: 0.07 6: 0.02 7: 0.01 8: 0.11 9: 0.15 
+test #516 target: 5,answer: 5, loss: 0.02, file mnist_5_106.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.13 4: 0.00 5: 0.90 6: 0.00 7: 0.00 8: 0.08 9: 0.01 
+test #517 target: 6,answer: 6, loss: 0.00, file mnist_6_106.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.04 3: 0.00 4: 0.00 5: 0.01 6: 0.98 7: 0.00 8: 0.01 9: 0.00 
+test #518 target: 7,answer: 7, loss: 0.01, file mnist_7_106.jpg
+probabilities: 0: 0.00 1: 0.07 2: 0.01 3: 0.03 4: 0.00 5: 0.00 6: 0.00 7: 0.86 8: 0.01 9: 0.05 
+test #519 target: 8,answer: 8, loss: 0.05, file mnist_8_1078.jpg
+probabilities: 0: 0.00 1: 0.20 2: 0.02 3: 0.05 4: 0.00 5: 0.03 6: 0.00 7: 0.00 8: 0.77 9: 0.00 
+test #520 target: 9,answer: 9, loss: 0.21, file mnist_9_1078.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.02 4: 0.01 5: 0.49 6: 0.00 7: 0.00 8: 0.03 9: 0.59 
+test #521 target: 0,answer: 0, loss: 0.01, file mnist_0_1078.jpg
+probabilities: 0: 0.91 1: 0.00 2: 0.00 3: 0.01 4: 0.00 5: 0.07 6: 0.00 7: 0.05 8: 0.00 9: 0.00 
+test #522 target: 1,answer: 1, loss: 0.02, file mnist_1_1078.jpg
+probabilities: 0: 0.00 1: 0.95 2: 0.00 3: 0.01 4: 0.00 5: 0.02 6: 0.01 7: 0.00 8: 0.21 9: 0.01 
+test #523 target: 2,answer: 2, loss: 0.10, file mnist_2_1068.jpg
+probabilities: 0: 0.00 1: 0.02 2: 0.91 3: 0.00 4: 0.00 5: 0.00 6: 0.43 7: 0.00 8: 0.00 9: 0.00 
+test #524 target: 3,answer: 3, loss: 0.00, file mnist_3_1069.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.04 3: 0.99 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.05 9: 0.00 
+test #525 target: 4,answer: 4, loss: 0.00, file mnist_4_1072.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 1.00 5: 0.00 6: 0.00 7: 0.01 8: 0.00 9: 0.08 
+test #526 target: 5,answer: 5, loss: 0.02, file mnist_5_1072.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.03 4: 0.01 5: 0.88 6: 0.00 7: 0.00 8: 0.14 9: 0.03 
+test #527 target: 6,answer: 6, loss: 0.01, file mnist_6_1070.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.02 3: 0.00 4: 0.05 5: 0.00 6: 0.86 7: 0.00 8: 0.00 9: 0.01 
+test #528 target: 7,answer: 7, loss: 0.01, file mnist_7_1070.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.96 8: 0.00 9: 0.10 
+test #529 target: 8,answer: 8, loss: 0.00, file mnist_8_1079.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.05 6: 0.00 7: 0.00 8: 0.98 9: 0.01 
+test #530 target: 9,answer: 9, loss: 0.00, file mnist_9_1079.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.00 6: 0.00 7: 0.07 8: 0.00 9: 0.97 
+test #531 target: 0,answer: 0, loss: 0.00, file mnist_0_1080.jpg
+probabilities: 0: 1.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #532 target: 1,answer: 1, loss: 0.01, file mnist_1_1080.jpg
+probabilities: 0: 0.00 1: 0.90 2: 0.02 3: 0.03 4: 0.00 5: 0.01 6: 0.02 7: 0.00 8: 0.11 9: 0.00 
+test #533 target: 2,answer: 2, loss: 0.00, file mnist_2_1069.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.99 3: 0.00 4: 0.00 5: 0.00 6: 0.01 7: 0.00 8: 0.01 9: 0.00 
+test #534 target: 3,answer: 3, loss: 0.08, file mnist_3_106.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.01 3: 0.73 4: 0.00 5: 0.28 6: 0.00 7: 0.00 8: 0.04 9: 0.00 
+test #535 target: 4,answer: 4, loss: 0.01, file mnist_4_1074.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.00 4: 0.91 5: 0.02 6: 0.01 7: 0.02 8: 0.02 9: 0.05 
+test #536 target: 5,answer: 5, loss: 0.25, file mnist_5_1074.jpg
+probabilities: 0: 0.07 1: 0.00 2: 0.00 3: 0.13 4: 0.03 5: 0.34 6: 0.00 7: 0.02 8: 0.07 9: 0.19 
+test #537 target: 6,answer: 6, loss: 0.00, file mnist_6_1071.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.02 3: 0.00 4: 0.00 5: 0.00 6: 0.91 7: 0.00 8: 0.00 9: 0.00 
+test #538 target: 7,answer: 7, loss: 0.00, file mnist_7_1071.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 1.00 8: 0.00 9: 0.00 
+test #539 target: 8,answer: 8, loss: 0.01, file mnist_8_1080.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.03 3: 0.02 4: 0.08 5: 0.04 6: 0.00 7: 0.00 8: 0.93 9: 0.01 
+test #540 target: 9,answer: 9, loss: 0.01, file mnist_9_1080.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.03 8: 0.05 9: 0.91 
+test #541 target: 0,answer: 0, loss: 0.00, file mnist_0_1081.jpg
+probabilities: 0: 0.99 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.02 8: 0.01 9: 0.02 
+test #542 target: 1,answer: 1, loss: 0.45, file mnist_1_1081.jpg
+probabilities: 0: 0.00 1: 0.06 2: 0.00 3: 0.00 4: 0.00 5: 0.02 6: 0.01 7: 0.02 8: 0.04 9: 0.03 
+test #543 target: 2,answer: 2, loss: 0.00, file mnist_2_1078.jpg
+probabilities: 0: 0.00 1: 0.00 2: 1.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #544 target: 3,answer: 3, loss: 0.15, file mnist_3_1078.jpg
+probabilities: 0: 0.00 1: 0.11 2: 0.07 3: 0.54 4: 0.02 5: 0.12 6: 0.00 7: 0.01 8: 0.23 9: 0.00 
+test #545 target: 4,answer: 4, loss: 0.02, file mnist_4_1075.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.86 5: 0.01 6: 0.00 7: 0.00 8: 0.00 9: 0.17 
+test #546 target: 5,answer: 5, loss: 0.00, file mnist_5_1075.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.03 4: 0.01 5: 0.96 6: 0.00 7: 0.00 8: 0.02 9: 0.00 
+test #547 target: 6,answer: 6, loss: 0.01, file mnist_6_1072.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.15 6: 0.93 7: 0.00 8: 0.02 9: 0.00 
+test #548 target: 7,answer: 7, loss: 0.23, file mnist_7_1072.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.04 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.33 8: 0.04 9: 0.07 
+test #549 target: 8,answer: 8, loss: 0.01, file mnist_8_1081.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.11 3: 0.00 4: 0.00 5: 0.01 6: 0.03 7: 0.00 8: 0.88 9: 0.00 
+test #550 target: 9,answer: 9, loss: 0.07, file mnist_9_1081.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.13 5: 0.00 6: 0.00 7: 0.16 8: 0.04 9: 0.69 
+test #551 target: 0,answer: 0, loss: 0.00, file mnist_0_1082.jpg
+probabilities: 0: 0.99 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #552 target: 1,answer: 1, loss: 0.00, file mnist_1_1082.jpg
+probabilities: 0: 0.00 1: 0.99 2: 0.01 3: 0.01 4: 0.00 5: 0.01 6: 0.01 7: 0.00 8: 0.06 9: 0.00 
+test #553 target: 2,answer: 2, loss: 0.00, file mnist_2_1079.jpg
+probabilities: 0: 0.00 1: 0.00 2: 1.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #554 target: 3,answer: 3, loss: 0.18, file mnist_3_1079.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.48 4: 0.00 5: 0.30 6: 0.00 7: 0.00 8: 0.03 9: 0.00 
+test #555 target: 4,answer: 4, loss: 0.14, file mnist_4_1076.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.02 3: 0.00 4: 0.53 5: 0.06 6: 0.01 7: 0.00 8: 0.23 9: 0.01 
+test #556 target: 5,answer: 5, loss: 0.05, file mnist_5_1076.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.23 4: 0.00 5: 0.80 6: 0.00 7: 0.00 8: 0.02 9: 0.06 
+test #557 target: 6,answer: 6, loss: 0.00, file mnist_6_1073.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.02 4: 0.00 5: 0.07 6: 0.96 7: 0.00 8: 0.01 9: 0.00 
+test #558 target: 7,answer: 7, loss: 0.05, file mnist_7_1073.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.02 6: 0.00 7: 0.85 8: 0.00 9: 0.29 
+test #559 target: 8,answer: 8, loss: 0.18, file mnist_8_1082.jpg
+probabilities: 0: 0.00 1: 0.22 2: 0.02 3: 0.27 4: 0.00 5: 0.01 6: 0.00 7: 0.01 8: 0.51 9: 0.03 
+test #560 target: 9,answer: 9, loss: 0.03, file mnist_9_1082.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.01 6: 0.00 7: 0.01 8: 0.19 9: 0.85 
+test #561 target: 0,answer: 0, loss: 0.00, file mnist_0_1083.jpg
+probabilities: 0: 1.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #562 target: 1,answer: 1, loss: 0.01, file mnist_1_1083.jpg
+probabilities: 0: 0.00 1: 0.96 2: 0.00 3: 0.06 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.12 9: 0.03 
+test #563 target: 2,answer: 2, loss: 0.15, file mnist_2_107.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.61 3: 0.35 4: 0.00 5: 0.02 6: 0.00 7: 0.00 8: 0.17 9: 0.00 
+test #564 target: 3,answer: 3, loss: 0.02, file mnist_3_107.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.87 4: 0.00 5: 0.17 6: 0.00 7: 0.00 8: 0.06 9: 0.00 
+test #565 target: 4,answer: 4, loss: 0.02, file mnist_4_1077.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.87 5: 0.07 6: 0.00 7: 0.00 8: 0.11 9: 0.05 
+test #566 target: 5,answer: 5, loss: 0.00, file mnist_5_1077.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.04 4: 0.00 5: 0.97 6: 0.00 7: 0.00 8: 0.03 9: 0.00 
+test #567 target: 6,answer: 6, loss: 0.00, file mnist_6_1074.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.05 3: 0.00 4: 0.00 5: 0.00 6: 0.98 7: 0.00 8: 0.01 9: 0.00 
+test #568 target: 7,answer: 7, loss: 0.00, file mnist_7_1074.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.99 8: 0.00 9: 0.02 
+test #569 target: 8,answer: 8, loss: 0.00, file mnist_8_1083.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.02 3: 0.00 4: 0.00 5: 0.04 6: 0.00 7: 0.00 8: 0.99 9: 0.00 
+test #570 target: 9,answer: 9, loss: 0.00, file mnist_9_1083.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.01 5: 0.00 6: 0.00 7: 0.03 8: 0.00 9: 0.95 
+test #571 target: 0,answer: 0, loss: 0.00, file mnist_0_1087.jpg
+probabilities: 0: 0.99 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.01 8: 0.00 9: 0.00 
+test #572 target: 1,answer: 1, loss: 0.00, file mnist_1_1087.jpg
+probabilities: 0: 0.00 1: 0.94 2: 0.01 3: 0.04 4: 0.00 5: 0.01 6: 0.01 7: 0.03 8: 0.03 9: 0.02 
+test #573 target: 2,answer: 2, loss: 0.00, file mnist_2_1080.jpg
+probabilities: 0: 0.01 1: 0.00 2: 1.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #574 target: 3,answer: 3, loss: 0.00, file mnist_3_1080.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.02 3: 0.97 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.05 9: 0.00 
+test #575 target: 4,answer: 4, loss: 0.01, file mnist_4_1078.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.03 4: 0.90 5: 0.04 6: 0.01 7: 0.01 8: 0.04 9: 0.08 
+test #576 target: 5,answer: 5, loss: 0.00, file mnist_5_1078.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.03 4: 0.00 5: 0.97 6: 0.00 7: 0.00 8: 0.08 9: 0.00 
+test #577 target: 6,answer: 6, loss: 0.08, file mnist_6_1075.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.39 3: 0.00 4: 0.00 5: 0.01 6: 0.90 7: 0.00 8: 0.01 9: 0.00 
+test #578 target: 7,answer: 7, loss: 0.00, file mnist_7_1075.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.99 8: 0.00 9: 0.02 
+test #579 target: 8,answer: 0, loss: 0.37, file mnist_8_1084.jpg
+probabilities: 0: 0.45 1: 0.00 2: 0.02 3: 0.05 4: 0.00 5: 0.02 6: 0.00 7: 0.00 8: 0.28 9: 0.00 
+test #580 target: 9,answer: 9, loss: 0.02, file mnist_9_1084.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.01 5: 0.00 6: 0.00 7: 0.06 8: 0.02 9: 0.80 
+test #581 target: 0,answer: 0, loss: 0.00, file mnist_0_1088.jpg
+probabilities: 0: 0.99 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #582 target: 1,answer: 1, loss: 0.00, file mnist_1_1088.jpg
+probabilities: 0: 0.00 1: 0.97 2: 0.00 3: 0.07 4: 0.00 5: 0.00 6: 0.01 7: 0.01 8: 0.02 9: 0.02 
+test #583 target: 2,answer: 2, loss: 0.00, file mnist_2_1081.jpg
+probabilities: 0: 0.00 1: 0.00 2: 1.00 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #584 target: 3,answer: 3, loss: 0.00, file mnist_3_1081.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.99 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.03 9: 0.00 
+test #585 target: 4,answer: 4, loss: 0.01, file mnist_4_1079.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.93 5: 0.07 6: 0.00 7: 0.01 8: 0.03 9: 0.10 
+test #586 target: 5,answer: 5, loss: 0.03, file mnist_5_1079.jpg
+probabilities: 0: 0.00 1: 0.16 2: 0.00 3: 0.02 4: 0.00 5: 0.92 6: 0.00 7: 0.00 8: 0.16 9: 0.00 
+test #587 target: 6,answer: 6, loss: 0.01, file mnist_6_1076.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.12 3: 0.00 4: 0.00 5: 0.01 6: 0.99 7: 0.00 8: 0.00 9: 0.00 
+test #588 target: 7,answer: 7, loss: 0.05, file mnist_7_1076.jpg
+probabilities: 0: 0.31 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.93 8: 0.00 9: 0.01 
+test #589 target: 8,answer: 8, loss: 0.01, file mnist_8_1085.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.10 3: 0.00 4: 0.03 5: 0.04 6: 0.01 7: 0.00 8: 0.88 9: 0.00 
+test #590 target: 9,answer: 9, loss: 0.19, file mnist_9_1085.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.57 5: 0.00 6: 0.00 7: 0.00 8: 0.02 9: 0.75 
+test #591 target: 0,answer: 0, loss: 0.00, file mnist_0_1089.jpg
+probabilities: 0: 1.00 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #592 target: 1,answer: 1, loss: 0.00, file mnist_1_1089.jpg
+probabilities: 0: 0.00 1: 0.99 2: 0.00 3: 0.03 4: 0.00 5: 0.00 6: 0.00 7: 0.01 8: 0.02 9: 0.02 
+test #593 target: 2,answer: 2, loss: 0.00, file mnist_2_1082.jpg
+probabilities: 0: 0.00 1: 0.00 2: 1.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #594 target: 3,answer: 3, loss: 0.00, file mnist_3_1082.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.02 3: 1.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #595 target: 4,answer: 4, loss: 0.00, file mnist_4_107.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.95 5: 0.01 6: 0.01 7: 0.01 8: 0.03 9: 0.04 
+test #596 target: 5,answer: 3, loss: 0.95, file mnist_5_107.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.24 3: 0.93 4: 0.00 5: 0.02 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #597 target: 6,answer: 6, loss: 0.00, file mnist_6_1077.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.02 6: 0.98 7: 0.00 8: 0.01 9: 0.00 
+test #598 target: 7,answer: 7, loss: 0.01, file mnist_7_1077.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.92 8: 0.00 9: 0.14 
+test #599 target: 8,answer: 8, loss: 0.22, file mnist_8_1086.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.14 4: 0.00 5: 0.11 6: 0.00 7: 0.00 8: 0.36 9: 0.00 
+test #600 target: 9,answer: 3, loss: 0.47, file mnist_9_1086.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.25 4: 0.00 5: 0.16 6: 0.00 7: 0.02 8: 0.01 9: 0.07 
+test #601 target: 0,answer: 0, loss: 0.03, file mnist_0_108.jpg
+probabilities: 0: 0.85 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.18 6: 0.01 7: 0.00 8: 0.00 9: 0.00 
+test #602 target: 1,answer: 1, loss: 0.00, file mnist_1_108.jpg
+probabilities: 0: 0.00 1: 0.98 2: 0.04 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.03 9: 0.00 
+test #603 target: 2,answer: 2, loss: 0.00, file mnist_2_1083.jpg
+probabilities: 0: 0.00 1: 0.00 2: 1.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #604 target: 3,answer: 3, loss: 0.01, file mnist_3_1083.jpg
+probabilities: 0: 0.00 1: 0.06 2: 0.12 3: 0.93 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.07 9: 0.00 
+test #605 target: 4,answer: 4, loss: 0.00, file mnist_4_1080.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.97 5: 0.00 6: 0.00 7: 0.04 8: 0.01 9: 0.04 
+test #606 target: 5,answer: 5, loss: 0.00, file mnist_5_1080.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.08 4: 0.00 5: 0.98 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #607 target: 6,answer: 6, loss: 0.05, file mnist_6_107.jpg
+probabilities: 0: 0.13 1: 0.00 2: 0.08 3: 0.00 4: 0.02 5: 0.19 6: 0.78 7: 0.00 8: 0.02 9: 0.00 
+test #608 target: 7,answer: 7, loss: 0.00, file mnist_7_107.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 1.00 8: 0.00 9: 0.01 
+test #609 target: 8,answer: 1, loss: 0.36, file mnist_8_1087.jpg
+probabilities: 0: 0.00 1: 0.19 2: 0.04 3: 0.00 4: 0.00 5: 0.11 6: 0.01 7: 0.00 8: 0.18 9: 0.00 
+test #610 target: 9,answer: 9, loss: 0.05, file mnist_9_1087.jpg
+probabilities: 0: 0.00 1: 0.02 2: 0.00 3: 0.01 4: 0.13 5: 0.01 6: 0.00 7: 0.03 8: 0.02 9: 0.73 
+test #611 target: 0,answer: 0, loss: 0.00, file mnist_0_1093.jpg
+probabilities: 0: 1.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #612 target: 1,answer: 1, loss: 0.01, file mnist_1_1093.jpg
+probabilities: 0: 0.00 1: 0.92 2: 0.09 3: 0.02 4: 0.00 5: 0.01 6: 0.01 7: 0.01 8: 0.05 9: 0.00 
+test #613 target: 2,answer: 2, loss: 0.00, file mnist_2_1084.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.99 3: 0.00 4: 0.00 5: 0.00 6: 0.06 7: 0.00 8: 0.00 9: 0.00 
+test #614 target: 3,answer: 3, loss: 0.00, file mnist_3_1084.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.99 4: 0.00 5: 0.03 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #615 target: 4,answer: 4, loss: 0.01, file mnist_4_1081.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.00 4: 0.98 5: 0.00 6: 0.09 7: 0.07 8: 0.00 9: 0.04 
+test #616 target: 5,answer: 0, loss: 0.44, file mnist_5_1081.jpg
+probabilities: 0: 0.36 1: 0.00 2: 0.02 3: 0.02 4: 0.02 5: 0.16 6: 0.00 7: 0.00 8: 0.22 9: 0.01 
+test #617 target: 6,answer: 6, loss: 0.02, file mnist_6_1088.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.21 5: 0.00 6: 0.96 7: 0.00 8: 0.00 9: 0.00 
+test #618 target: 7,answer: 7, loss: 0.01, file mnist_7_1088.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.96 8: 0.00 9: 0.15 
+test #619 target: 8,answer: 8, loss: 0.03, file mnist_8_108.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.97 9: 0.25 
+test #620 target: 9,answer: 9, loss: 0.14, file mnist_9_108.jpg
+probabilities: 0: 0.06 1: 0.00 2: 0.01 3: 0.00 4: 0.10 5: 0.00 6: 0.00 7: 0.03 8: 0.18 9: 0.52 
+test #621 target: 0,answer: 0, loss: 0.00, file mnist_0_1094.jpg
+probabilities: 0: 0.97 1: 0.00 2: 0.05 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #622 target: 1,answer: 1, loss: 0.02, file mnist_1_1094.jpg
+probabilities: 0: 0.00 1: 0.87 2: 0.00 3: 0.16 4: 0.00 5: 0.01 6: 0.00 7: 0.01 8: 0.06 9: 0.03 
+test #623 target: 2,answer: 2, loss: 0.00, file mnist_2_1085.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.99 3: 0.02 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #624 target: 3,answer: 3, loss: 0.03, file mnist_3_1085.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.00 3: 0.94 4: 0.00 5: 0.25 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #625 target: 4,answer: 4, loss: 0.01, file mnist_4_1082.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.05 3: 0.00 4: 0.93 5: 0.00 6: 0.03 7: 0.05 8: 0.01 9: 0.04 
+test #626 target: 5,answer: 5, loss: 0.09, file mnist_5_1082.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.25 4: 0.00 5: 0.65 6: 0.01 7: 0.00 8: 0.04 9: 0.00 
+test #627 target: 6,answer: 6, loss: 0.02, file mnist_6_1089.jpg
+probabilities: 0: 0.05 1: 0.00 2: 0.02 3: 0.02 4: 0.00 5: 0.17 6: 0.93 7: 0.00 8: 0.04 9: 0.01 
+test #628 target: 7,answer: 7, loss: 0.00, file mnist_7_1089.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 1.00 8: 0.00 9: 0.00 
+test #629 target: 8,answer: 8, loss: 0.01, file mnist_8_1090.jpg
+probabilities: 0: 0.00 1: 0.02 2: 0.09 3: 0.01 4: 0.00 5: 0.01 6: 0.02 7: 0.00 8: 0.91 9: 0.00 
+test #630 target: 9,answer: 9, loss: 0.09, file mnist_9_1090.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.04 5: 0.00 6: 0.00 7: 0.00 8: 0.08 9: 0.59 
+test #631 target: 0,answer: 6, loss: 0.46, file mnist_0_1095.jpg
+probabilities: 0: 0.30 1: 0.00 2: 0.03 3: 0.00 4: 0.00 5: 0.13 6: 0.64 7: 0.00 8: 0.01 9: 0.00 
+test #632 target: 1,answer: 1, loss: 0.00, file mnist_1_1095.jpg
+probabilities: 0: 0.00 1: 0.97 2: 0.00 3: 0.01 4: 0.00 5: 0.01 6: 0.01 7: 0.00 8: 0.09 9: 0.01 
+test #633 target: 2,answer: 2, loss: 0.07, file mnist_2_1086.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.85 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.35 9: 0.00 
+test #634 target: 3,answer: 3, loss: 0.00, file mnist_3_1086.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.01 3: 0.98 4: 0.00 5: 0.07 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #635 target: 4,answer: 4, loss: 0.00, file mnist_4_1083.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 1.00 5: 0.00 6: 0.01 7: 0.00 8: 0.01 9: 0.02 
+test #636 target: 5,answer: 5, loss: 0.32, file mnist_5_1083.jpg
+probabilities: 0: 0.04 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.23 6: 0.00 7: 0.21 8: 0.06 9: 0.07 
+test #637 target: 6,answer: 6, loss: 0.00, file mnist_6_108.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.06 6: 0.92 7: 0.00 8: 0.00 9: 0.00 
+test #638 target: 7,answer: 7, loss: 0.00, file mnist_7_1098.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 1.00 8: 0.00 9: 0.02 
+test #639 target: 8,answer: 8, loss: 0.00, file mnist_8_1091.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.99 9: 0.06 
+test #640 target: 9,answer: 9, loss: 0.06, file mnist_9_1091.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.18 5: 0.03 6: 0.01 7: 0.04 8: 0.05 9: 0.71 
+test #641 target: 0,answer: 0, loss: 0.00, file mnist_0_1096.jpg
+probabilities: 0: 0.98 1: 0.00 2: 0.02 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #642 target: 1,answer: 1, loss: 0.00, file mnist_1_1096.jpg
+probabilities: 0: 0.00 1: 0.98 2: 0.00 3: 0.02 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.07 9: 0.01 
+test #643 target: 2,answer: 2, loss: 0.06, file mnist_2_1087.jpg
+probabilities: 0: 0.00 1: 0.22 2: 0.87 3: 0.00 4: 0.00 5: 0.00 6: 0.23 7: 0.01 8: 0.01 9: 0.00 
+test #644 target: 3,answer: 3, loss: 0.01, file mnist_3_1087.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.09 3: 0.92 4: 0.00 5: 0.07 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #645 target: 4,answer: 4, loss: 0.09, file mnist_4_1084.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.89 5: 0.02 6: 0.00 7: 0.00 8: 0.41 9: 0.02 
+test #646 target: 5,answer: 5, loss: 0.00, file mnist_5_1084.jpg
+probabilities: 0: 0.04 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.94 6: 0.02 7: 0.00 8: 0.02 9: 0.00 
+test #647 target: 6,answer: 6, loss: 0.00, file mnist_6_1098.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.06 3: 0.00 4: 0.00 5: 0.00 6: 0.99 7: 0.00 8: 0.00 9: 0.00 
+test #648 target: 7,answer: 7, loss: 0.00, file mnist_7_1099.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.92 8: 0.01 9: 0.01 
+test #649 target: 8,answer: 8, loss: 0.03, file mnist_8_1092.jpg
+probabilities: 0: 0.00 1: 0.09 2: 0.06 3: 0.00 4: 0.00 5: 0.02 6: 0.00 7: 0.00 8: 0.76 9: 0.00 
+test #650 target: 9,answer: 9, loss: 0.10, file mnist_9_1092.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.27 5: 0.01 6: 0.00 7: 0.03 8: 0.05 9: 0.64 
+test #651 target: 0,answer: 0, loss: 0.00, file mnist_0_1097.jpg
+probabilities: 0: 0.99 1: 0.00 2: 0.07 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.03 9: 0.00 
+test #652 target: 1,answer: 1, loss: 0.01, file mnist_1_1097.jpg
+probabilities: 0: 0.00 1: 0.95 2: 0.06 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.08 9: 0.00 
+test #653 target: 2,answer: 2, loss: 0.04, file mnist_2_108.jpg
+probabilities: 0: 0.00 1: 0.01 2: 0.85 3: 0.02 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.26 9: 0.00 
+test #654 target: 3,answer: 5, loss: 0.39, file mnist_3_108.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.25 4: 0.00 5: 0.43 6: 0.00 7: 0.00 8: 0.17 9: 0.00 
+test #655 target: 4,answer: 4, loss: 0.14, file mnist_4_1085.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.03 4: 0.61 5: 0.01 6: 0.00 7: 0.00 8: 0.05 9: 0.37 
+test #656 target: 5,answer: 5, loss: 0.06, file mnist_5_1085.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.01 3: 0.16 4: 0.01 5: 0.71 6: 0.00 7: 0.01 8: 0.09 9: 0.03 
+test #657 target: 6,answer: 6, loss: 0.01, file mnist_6_1099.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.08 3: 0.00 4: 0.00 5: 0.00 6: 0.92 7: 0.00 8: 0.03 9: 0.00 
+test #658 target: 7,answer: 7, loss: 0.00, file mnist_7_10.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.98 8: 0.00 9: 0.08 
+test #659 target: 8,answer: 8, loss: 0.00, file mnist_8_1093.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.03 4: 0.01 5: 0.01 6: 0.00 7: 0.00 8: 0.98 9: 0.00 
+test #660 target: 9,answer: 9, loss: 0.06, file mnist_9_1093.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.11 5: 0.00 6: 0.00 7: 0.05 8: 0.13 9: 0.71 
+test #661 target: 0,answer: 6, loss: 0.72, file mnist_0_1098.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.01 6: 0.67 7: 0.00 8: 0.00 9: 0.00 
+test #662 target: 1,answer: 1, loss: 0.02, file mnist_1_1098.jpg
+probabilities: 0: 0.00 1: 0.90 2: 0.01 3: 0.04 4: 0.00 5: 0.00 6: 0.00 7: 0.15 8: 0.02 9: 0.02 
+test #663 target: 2,answer: 2, loss: 0.00, file mnist_2_1090.jpg
+probabilities: 0: 0.00 1: 0.00 2: 1.00 3: 0.00 4: 0.00 5: 0.00 6: 0.01 7: 0.00 8: 0.00 9: 0.00 
+test #664 target: 3,answer: 3, loss: 0.00, file mnist_3_1090.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.97 4: 0.00 5: 0.06 6: 0.00 7: 0.00 8: 0.02 9: 0.02 
+test #665 target: 4,answer: 4, loss: 0.04, file mnist_4_1086.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.92 5: 0.04 6: 0.00 7: 0.00 8: 0.27 9: 0.04 
+test #666 target: 5,answer: 5, loss: 0.07, file mnist_5_1086.jpg
+probabilities: 0: 0.04 1: 0.00 2: 0.00 3: 0.01 4: 0.01 5: 0.71 6: 0.00 7: 0.01 8: 0.22 9: 0.03 
+test #667 target: 6,answer: 6, loss: 0.00, file mnist_6_109.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.00 6: 0.99 7: 0.00 8: 0.00 9: 0.00 
+test #668 target: 7,answer: 7, loss: 0.00, file mnist_7_1100.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 1.00 8: 0.00 9: 0.01 
+test #669 target: 8,answer: 8, loss: 0.16, file mnist_8_1094.jpg
+probabilities: 0: 0.00 1: 0.06 2: 0.02 3: 0.01 4: 0.00 5: 0.05 6: 0.00 7: 0.00 8: 0.43 9: 0.00 
+test #670 target: 9,answer: 9, loss: 0.01, file mnist_9_1094.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.09 5: 0.00 6: 0.00 7: 0.01 8: 0.10 9: 0.93 
+test #671 target: 0,answer: 0, loss: 0.00, file mnist_0_1099.jpg
+probabilities: 0: 0.99 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.01 6: 0.01 7: 0.00 8: 0.00 9: 0.00 
+test #672 target: 1,answer: 1, loss: 0.00, file mnist_1_1099.jpg
+probabilities: 0: 0.00 1: 0.96 2: 0.00 3: 0.02 4: 0.00 5: 0.01 6: 0.00 7: 0.01 8: 0.06 9: 0.02 
+test #673 target: 2,answer: 2, loss: 0.00, file mnist_2_1091.jpg
+probabilities: 0: 0.02 1: 0.00 2: 1.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #674 target: 3,answer: 3, loss: 0.09, file mnist_3_1091.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.08 3: 0.59 4: 0.00 5: 0.11 6: 0.01 7: 0.00 8: 0.00 9: 0.00 
+test #675 target: 4,answer: 4, loss: 0.01, file mnist_4_1087.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.97 5: 0.08 6: 0.00 7: 0.00 8: 0.02 9: 0.05 
+test #676 target: 5,answer: 5, loss: 0.00, file mnist_5_1087.jpg
+probabilities: 0: 0.04 1: 0.00 2: 0.00 3: 0.02 4: 0.00 5: 0.97 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #677 target: 6,answer: 6, loss: 0.00, file mnist_6_10.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 1.00 7: 0.00 8: 0.00 9: 0.00 
+test #678 target: 7,answer: 7, loss: 0.00, file mnist_7_1101.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 1.00 8: 0.00 9: 0.01 
+test #679 target: 8,answer: 8, loss: 0.02, file mnist_8_1095.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.05 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.89 9: 0.15 
+test #680 target: 9,answer: 9, loss: 0.04, file mnist_9_1095.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.04 4: 0.11 5: 0.01 6: 0.00 7: 0.04 8: 0.01 9: 0.73 
+test #681 target: 0,answer: 0, loss: 0.00, file mnist_0_109.jpg
+probabilities: 0: 0.96 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.06 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #682 target: 1,answer: 1, loss: 0.02, file mnist_1_109.jpg
+probabilities: 0: 0.00 1: 0.94 2: 0.01 3: 0.00 4: 0.00 5: 0.00 6: 0.01 7: 0.00 8: 0.18 9: 0.00 
+test #683 target: 2,answer: 1, loss: 0.72, file mnist_2_1092.jpg
+probabilities: 0: 0.00 1: 0.75 2: 0.07 3: 0.00 4: 0.01 5: 0.00 6: 0.05 7: 0.06 8: 0.02 9: 0.01 
+test #684 target: 3,answer: 5, loss: 0.71, file mnist_3_1092.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.03 4: 0.00 5: 0.67 6: 0.00 7: 0.00 8: 0.15 9: 0.04 
+test #685 target: 4,answer: 4, loss: 0.00, file mnist_4_1088.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 1.00 5: 0.00 6: 0.04 7: 0.00 8: 0.00 9: 0.01 
+test #686 target: 5,answer: 5, loss: 0.01, file mnist_5_1088.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.87 6: 0.00 7: 0.00 8: 0.01 9: 0.01 
+test #687 target: 6,answer: 6, loss: 0.00, file mnist_6_1100.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.00 6: 0.99 7: 0.00 8: 0.01 9: 0.00 
+test #688 target: 7,answer: 7, loss: 0.00, file mnist_7_1102.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.95 8: 0.00 9: 0.00 
+test #689 target: 8,answer: 8, loss: 0.01, file mnist_8_1096.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.12 6: 0.00 7: 0.00 8: 0.95 9: 0.02 
+test #690 target: 9,answer: 9, loss: 0.05, file mnist_9_1096.jpg
+probabilities: 0: 0.00 1: 0.02 2: 0.00 3: 0.01 4: 0.02 5: 0.01 6: 0.00 7: 0.04 8: 0.20 9: 0.75 
+test #691 target: 0,answer: 0, loss: 0.03, file mnist_0_10.jpg
+probabilities: 0: 0.96 1: 0.00 2: 0.00 3: 0.23 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #692 target: 1,answer: 1, loss: 0.00, file mnist_1_1100.jpg
+probabilities: 0: 0.00 1: 0.97 2: 0.00 3: 0.02 4: 0.00 5: 0.00 6: 0.00 7: 0.02 8: 0.03 9: 0.05 
+test #693 target: 2,answer: 3, loss: 0.59, file mnist_2_1093.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.16 3: 0.68 4: 0.00 5: 0.00 6: 0.00 7: 0.14 8: 0.00 9: 0.00 
+test #694 target: 3,answer: 3, loss: 0.00, file mnist_3_1093.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.02 3: 0.96 4: 0.00 5: 0.05 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #695 target: 4,answer: 4, loss: 0.01, file mnist_4_1089.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.94 5: 0.03 6: 0.00 7: 0.01 8: 0.07 9: 0.04 
+test #696 target: 5,answer: 5, loss: 0.01, file mnist_5_1089.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.00 3: 0.03 4: 0.00 5: 0.90 6: 0.00 7: 0.00 8: 0.14 9: 0.00 
+test #697 target: 6,answer: 6, loss: 0.00, file mnist_6_1101.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.07 3: 0.00 4: 0.00 5: 0.01 6: 0.99 7: 0.00 8: 0.00 9: 0.00 
+test #698 target: 7,answer: 7, loss: 0.00, file mnist_7_1103.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.99 8: 0.00 9: 0.04 
+test #699 target: 8,answer: 8, loss: 0.07, file mnist_8_1097.jpg
+probabilities: 0: 0.00 1: 0.21 2: 0.02 3: 0.02 4: 0.00 5: 0.04 6: 0.00 7: 0.00 8: 0.68 9: 0.01 
+test #700 target: 9,answer: 9, loss: 0.01, file mnist_9_1097.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.01 6: 0.00 7: 0.04 8: 0.07 9: 0.93 
+test #701 target: 0,answer: 0, loss: 0.00, file mnist_0_1100.jpg
+probabilities: 0: 0.98 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #702 target: 1,answer: 1, loss: 0.00, file mnist_1_1101.jpg
+probabilities: 0: 0.00 1: 0.99 2: 0.00 3: 0.03 4: 0.00 5: 0.00 6: 0.00 7: 0.02 8: 0.03 9: 0.02 
+test #703 target: 2,answer: 2, loss: 0.00, file mnist_2_1094.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.94 3: 0.00 4: 0.00 5: 0.00 6: 0.02 7: 0.01 8: 0.03 9: 0.00 
+test #704 target: 3,answer: 3, loss: 0.01, file mnist_3_1094.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.04 3: 0.90 4: 0.00 5: 0.07 6: 0.00 7: 0.00 8: 0.02 9: 0.00 
+test #705 target: 4,answer: 4, loss: 0.04, file mnist_4_1090.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.05 3: 0.00 4: 0.73 5: 0.00 6: 0.11 7: 0.04 8: 0.00 9: 0.02 
+test #706 target: 5,answer: 5, loss: 0.31, file mnist_5_1090.jpg
+probabilities: 0: 0.18 1: 0.00 2: 0.00 3: 0.00 4: 0.01 5: 0.24 6: 0.01 7: 0.00 8: 0.01 9: 0.01 
+test #707 target: 6,answer: 6, loss: 0.00, file mnist_6_1102.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.05 3: 0.00 4: 0.01 5: 0.00 6: 0.94 7: 0.00 8: 0.01 9: 0.00 
+test #708 target: 7,answer: 7, loss: 0.00, file mnist_7_1104.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.98 8: 0.01 9: 0.02 
+test #709 target: 8,answer: 8, loss: 0.06, file mnist_8_109.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.08 4: 0.03 5: 0.18 6: 0.00 7: 0.00 8: 0.71 9: 0.00 
+test #710 target: 9,answer: 9, loss: 0.00, file mnist_9_109.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.05 5: 0.00 6: 0.00 7: 0.00 8: 0.03 9: 0.99 
+test #711 target: 0,answer: 0, loss: 0.00, file mnist_0_1101.jpg
+probabilities: 0: 1.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #712 target: 1,answer: 1, loss: 0.00, file mnist_1_1102.jpg
+probabilities: 0: 0.00 1: 0.99 2: 0.02 3: 0.02 4: 0.00 5: 0.00 6: 0.02 7: 0.01 8: 0.02 9: 0.01 
+test #713 target: 2,answer: 2, loss: 0.00, file mnist_2_1095.jpg
+probabilities: 0: 0.00 1: 0.00 2: 1.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #714 target: 3,answer: 3, loss: 0.00, file mnist_3_1095.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.05 3: 0.99 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.04 9: 0.00 
+test #715 target: 4,answer: 4, loss: 0.02, file mnist_4_1091.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.97 5: 0.17 6: 0.00 7: 0.00 8: 0.03 9: 0.06 
+test #716 target: 5,answer: 5, loss: 0.00, file mnist_5_1091.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.00 4: 0.07 5: 0.96 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #717 target: 6,answer: 6, loss: 0.08, file mnist_6_1103.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.02 3: 0.00 4: 0.00 5: 0.00 6: 0.59 7: 0.00 8: 0.02 9: 0.00 
+test #718 target: 7,answer: 7, loss: 0.01, file mnist_7_1105.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.05 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.86 8: 0.01 9: 0.01 
+test #719 target: 8,answer: 8, loss: 0.12, file mnist_8_10.jpg
+probabilities: 0: 0.00 1: 0.10 2: 0.01 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.01 8: 0.52 9: 0.01 
+test #720 target: 9,answer: 0, loss: 0.59, file mnist_9_10.jpg
+probabilities: 0: 0.30 1: 0.00 2: 0.03 3: 0.07 4: 0.00 5: 0.08 6: 0.00 7: 0.00 8: 0.28 9: 0.00 
+test #721 target: 0,answer: 0, loss: 0.00, file mnist_0_1102.jpg
+probabilities: 0: 0.97 1: 0.00 2: 0.05 3: 0.00 4: 0.00 5: 0.04 6: 0.03 7: 0.00 8: 0.05 9: 0.00 
+test #722 target: 1,answer: 1, loss: 0.00, file mnist_1_1103.jpg
+probabilities: 0: 0.00 1: 0.96 2: 0.04 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.03 8: 0.02 9: 0.00 
+test #723 target: 2,answer: 2, loss: 0.00, file mnist_2_1096.jpg
+probabilities: 0: 0.00 1: 0.00 2: 1.00 3: 0.03 4: 0.00 5: 0.00 6: 0.01 7: 0.00 8: 0.00 9: 0.00 
+test #724 target: 3,answer: 5, loss: 0.41, file mnist_3_1096.jpg
+probabilities: 0: 0.06 1: 0.00 2: 0.00 3: 0.29 4: 0.01 5: 0.55 6: 0.00 7: 0.00 8: 0.03 9: 0.07 
+test #725 target: 4,answer: 4, loss: 0.00, file mnist_4_1092.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 1.00 5: 0.00 6: 0.08 7: 0.00 8: 0.00 9: 0.01 
+test #726 target: 5,answer: 0, loss: 0.39, file mnist_5_1092.jpg
+probabilities: 0: 0.30 1: 0.00 2: 0.04 3: 0.04 4: 0.00 5: 0.18 6: 0.00 7: 0.00 8: 0.05 9: 0.00 
+test #727 target: 6,answer: 6, loss: 0.00, file mnist_6_1104.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.01 3: 0.00 4: 0.00 5: 0.00 6: 1.00 7: 0.00 8: 0.00 9: 0.00 
+test #728 target: 7,answer: 7, loss: 0.01, file mnist_7_1106.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.02 3: 0.09 4: 0.00 5: 0.00 6: 0.00 7: 0.95 8: 0.00 9: 0.05 
+test #729 target: 8,answer: 8, loss: 0.14, file mnist_8_1108.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.03 5: 0.19 6: 0.00 7: 0.00 8: 0.51 9: 0.01 
+test #730 target: 9,answer: 9, loss: 0.04, file mnist_9_1108.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.25 5: 0.00 6: 0.00 7: 0.04 8: 0.00 9: 0.85 
+test #731 target: 0,answer: 0, loss: 0.00, file mnist_0_1103.jpg
+probabilities: 0: 0.96 1: 0.00 2: 0.04 3: 0.00 4: 0.00 5: 0.05 6: 0.00 7: 0.00 8: 0.03 9: 0.00 
+test #732 target: 1,answer: 1, loss: 0.00, file mnist_1_1104.jpg
+probabilities: 0: 0.00 1: 0.98 2: 0.03 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.01 8: 0.03 9: 0.00 
+test #733 target: 2,answer: 2, loss: 0.00, file mnist_2_1097.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.93 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.03 8: 0.05 9: 0.00 
+test #734 target: 3,answer: 3, loss: 0.00, file mnist_3_1097.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.95 4: 0.00 5: 0.03 6: 0.00 7: 0.03 8: 0.01 9: 0.05 
+test #735 target: 4,answer: 4, loss: 0.00, file mnist_4_1093.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.98 5: 0.00 6: 0.02 7: 0.02 8: 0.00 9: 0.04 
+test #736 target: 5,answer: 5, loss: 0.02, file mnist_5_1093.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.00 3: 0.00 4: 0.03 5: 0.78 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #737 target: 6,answer: 6, loss: 0.00, file mnist_6_1105.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.09 3: 0.00 4: 0.00 5: 0.01 6: 0.98 7: 0.00 8: 0.00 9: 0.00 
+test #738 target: 7,answer: 7, loss: 0.00, file mnist_7_1107.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 1.00 8: 0.00 9: 0.02 
+test #739 target: 8,answer: 8, loss: 0.03, file mnist_8_1109.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.00 5: 0.03 6: 0.00 7: 0.01 8: 0.77 9: 0.12 
+test #740 target: 9,answer: 9, loss: 0.05, file mnist_9_1109.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.15 5: 0.01 6: 0.00 7: 0.03 8: 0.06 9: 0.73 
+test #741 target: 0,answer: 0, loss: 0.00, file mnist_0_1104.jpg
+probabilities: 0: 1.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 0.00 7: 0.00 8: 0.01 9: 0.00 
+test #742 target: 1,answer: 1, loss: 0.00, file mnist_1_1105.jpg
+probabilities: 0: 0.00 1: 0.98 2: 0.06 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.03 9: 0.00 
+test #743 target: 2,answer: 2, loss: 0.02, file mnist_2_109.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.97 3: 0.00 4: 0.00 5: 0.00 6: 0.18 7: 0.00 8: 0.00 9: 0.00 
+test #744 target: 3,answer: 3, loss: 0.00, file mnist_3_109.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.97 4: 0.00 5: 0.03 6: 0.00 7: 0.00 8: 0.01 9: 0.03 
+test #745 target: 4,answer: 4, loss: 0.29, file mnist_4_1094.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.02 4: 0.27 5: 0.01 6: 0.00 7: 0.14 8: 0.00 9: 0.18 
+test #746 target: 5,answer: 3, loss: 0.34, file mnist_5_1094.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.01 3: 0.37 4: 0.01 5: 0.27 6: 0.01 7: 0.01 8: 0.12 9: 0.00 
+test #747 target: 6,answer: 6, loss: 0.00, file mnist_6_1106.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.04 3: 0.00 4: 0.00 5: 0.00 6: 0.99 7: 0.00 8: 0.01 9: 0.00 
+test #748 target: 7,answer: 7, loss: 0.01, file mnist_7_110.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.04 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.89 8: 0.01 9: 0.11 
+test #749 target: 8,answer: 8, loss: 0.01, file mnist_8_1118.jpg
+probabilities: 0: 0.00 1: 0.02 2: 0.02 3: 0.03 4: 0.02 5: 0.04 6: 0.00 7: 0.00 8: 0.90 9: 0.01 
+test #750 target: 9,answer: 9, loss: 0.04, file mnist_9_1118.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.05 5: 0.15 6: 0.00 7: 0.01 8: 0.03 9: 0.75 
+test #751 target: 0,answer: 0, loss: 0.02, file mnist_0_1105.jpg
+probabilities: 0: 0.79 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.06 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #752 target: 1,answer: 1, loss: 0.00, file mnist_1_1106.jpg
+probabilities: 0: 0.00 1: 0.95 2: 0.01 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.02 8: 0.03 9: 0.00 
+test #753 target: 2,answer: 2, loss: 0.01, file mnist_2_10.jpg
+probabilities: 0: 0.00 1: 0.02 2: 0.96 3: 0.00 4: 0.00 5: 0.00 6: 0.11 7: 0.00 8: 0.00 9: 0.00 
+test #754 target: 3,answer: 3, loss: 0.09, file mnist_3_1108.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.00 3: 0.59 4: 0.00 5: 0.13 6: 0.02 7: 0.00 8: 0.02 9: 0.01 
+test #755 target: 4,answer: 4, loss: 0.02, file mnist_4_1095.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.85 5: 0.02 6: 0.01 7: 0.01 8: 0.01 9: 0.08 
+test #756 target: 5,answer: 5, loss: 0.01, file mnist_5_1095.jpg
+probabilities: 0: 0.02 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.99 6: 0.00 7: 0.00 8: 0.15 9: 0.00 
+test #757 target: 6,answer: 6, loss: 0.00, file mnist_6_1107.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.01 6: 1.00 7: 0.00 8: 0.00 9: 0.00 
+test #758 target: 7,answer: 7, loss: 0.00, file mnist_7_1110.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.00 3: 0.01 4: 0.00 5: 0.00 6: 0.00 7: 0.99 8: 0.00 9: 0.01 
+test #759 target: 8,answer: 8, loss: 0.14, file mnist_8_1119.jpg
+probabilities: 0: 0.01 1: 0.00 2: 0.05 3: 0.02 4: 0.00 5: 0.02 6: 0.00 7: 0.00 8: 0.48 9: 0.00 
+test #760 target: 9,answer: 9, loss: 0.00, file mnist_9_1119.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.03 3: 0.00 4: 0.01 5: 0.00 6: 0.00 7: 0.03 8: 0.03 9: 0.98 
+test #761 target: 0,answer: 0, loss: 0.00, file mnist_0_1106.jpg
+probabilities: 0: 1.00 1: 0.00 2: 0.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #762 target: 1,answer: 1, loss: 0.00, file mnist_1_1107.jpg
+probabilities: 0: 0.00 1: 0.96 2: 0.05 3: 0.02 4: 0.00 5: 0.00 6: 0.01 7: 0.01 8: 0.03 9: 0.00 
+test #763 target: 2,answer: 2, loss: 0.00, file mnist_2_1108.jpg
+probabilities: 0: 0.01 1: 0.00 2: 1.00 3: 0.00 4: 0.00 5: 0.00 6: 0.00 7: 0.00 8: 0.00 9: 0.00 
+test #764 target: 3,answer: 8, loss: 0.43, file mnist_3_1109.jpg
+probabilities: 0: 0.00 1: 0.00 2: 0.05 3: 0.16 4: 0.07 5: 0.15 6: 0.00 7: 0.00 8: 0.35 9: 0.00 
+test #765 target: 4,answer: 4, loss: 0.00, file mnist_4_1096.jpg
+probabilities: 
