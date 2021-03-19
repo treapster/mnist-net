@@ -138,7 +138,7 @@ int main()
         for (int i = 0; i < 10; i++) {
             std::cout << "Number " << i << ":\n";
             total = WrongAnswers[i] + RightAnswers[i];
-            std::cout << "Guessed: " << RightAnswers[i] << '/' << total << " Failed to guess: " << WrongAnswers[i] << '/' << total << " Accuracy is " << 100 * RightAnswers[i] * 1.0 / (total * 1.0) << "%\n";
+            std::cout << "Guessed: " << RightAnswers[i] << '/' << total << ", Failed to guess: " << WrongAnswers[i] << '/' << total << " Accuracy is " << 100 * RightAnswers[i] * 1.0 / (total * 1.0) << "%\n";
         }
         total = TotalRight + TotalWrong;
         std::cout << "Total right answers: " << TotalRight << "\n"
