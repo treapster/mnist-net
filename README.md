@@ -2,6 +2,7 @@
 Simple fully-connected network class tested on mnist.
 mnist.cpp reads file names from lists, loads them, vectorizes and feeds to 784-800-10 model. 
 I managed to get this results with it:
+```
 Number 0:
 Guessed: 964/980, Failed to guess: 16/980 Accuracy is 98.3673%
 Number 1:
@@ -25,3 +26,4 @@ Guessed: 907/1009, Failed to guess: 102/1009 Accuracy is 89.891%
 Total right answers: 9271
 Total wrong answers: 729
 Accuracy is 92.71%
+```
