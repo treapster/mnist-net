@@ -6,7 +6,7 @@
 #include <cmath>
 #include <fstream>
 #include <string>
-#include <cstdlib>
+#include <random>
 
 float activation(float x)
 {
@@ -57,8 +57,9 @@ private:
 };
 Net::Net(const std::vector<int>& config) {
     LayersCount = config.size();
-    int rand_range = 100000;
-    float weightsDistributionOffset = 0.0f; // I'm not sure if there are reasons to make it differ from zero, but you can try. Theoretically it can be something like 0.1-0.2 to lower the number of dead RELUs.
+    std::default_random_engine generator;
+    std::normal_distribution<float> distribution(0.0f, 1.0f);
+    float root_of_2 = sqrt(2.0);
     for (int i = 0; i < LayersCount; i++) {
         neurons.push_back(std::vector<Neuron>());
         for (int j = 0; j <= config[i]; j++) // '<=' for bias
@@ -69,9 +70,10 @@ Net::Net(const std::vector<int>& config) {
                 int k = 0;
                 neurons[i].back().grad = 0;
                 neurons[i][j].value = 1.0;
+                float root_of_incoming_connections = sqrt(1.0f * config[i]);
                 while (k < config[i + 1] && i < LayersCount - 1) // condition for i is bc there's no outputweights on the last layer (and config[i+1] is the upper layer size without bias)
                 {
-                    neurons[i][j].outputWeight.push_back( ( ((rand()%rand_range + 1) * 2.0f * (1.0f + weightsDistributionOffset)) / (rand_range * 1.0f) - 1.0f ) / (1.0f * config[i])) ;
+                    neurons[i][j].outputWeight.push_back(distribution(generator) * (root_of_2 /root_of_incoming_connections)) ;
                     k++;
                 }
             }
@@ -88,6 +90,10 @@ Net::Net(const std::vector<int>& config, std::string& pathToWeights) { // same a
 	}
     float weight;
 	int SIZE_OF_WEIGHT= sizeof(weight);
+    std::default_random_engine generator;
+    std::normal_distribution<float> distribution(0.0f, 1.0f);
+    float root_of_2 = sqrt(2.0);
+    bool failed = false;
     for (int i = 0; i < LayersCount; i++) {
         neurons.push_back(std::vector<Neuron>());
         for (int j = 0; j <= config[i]; j++) {
@@ -97,13 +103,17 @@ Net::Net(const std::vector<int>& config, std::string& pathToWeights) { // same a
                 int k = 0;
                 neurons[i].back().grad = 0;
                 neurons[i][j].value = 1.0;
+                float root_of_incoming_connections = sqrt(1.0f * config[i]);
                 while (i < LayersCount - 1 && k < config[i + 1]) {
                     if (file.read((char*) &weight, SIZE_OF_WEIGHT)) {
                         neurons[i][j].outputWeight.push_back(weight);
                     }
                     else {
-                        std::cout << "failed to load weights from " << pathToWeights << "\n";
-                        break;
+                        if(!failed) {
+                            std::cout << "Not enough weights in the file. Remainder will be randomly generated" << pathToWeights << "\n";
+                        }
+                        failed = true;
+                        neurons[i][j].outputWeight.push_back(distribution(generator) * (root_of_2 / root_of_incoming_connections)) ;
                     }
                     k++;
                 }
