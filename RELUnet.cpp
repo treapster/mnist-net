@@ -132,14 +132,14 @@ void Net::SaveWeightsToFile(std::string& pathToWeights) {
 	}
     for (int i = 0; i < LayersCount - 1; i++) {
         int NeuronsCount = neurons[i].size();
-        int UpperLayerSize;
+        int nextLayerSize;
         if (i < LayersCount - 2) //if we're on a deep layer, we don't include upper layer's bias
-            UpperLayerSize = neurons[i + 1].size() - 1;
+            nextLayerSize = neurons[i + 1].size() - 1;
         else
-            UpperLayerSize = neurons[i + 1].size(); // otherwise upper layer is the last and doesn't have bias
+            nextLayerSize = neurons[i + 1].size(); // otherwise upper layer is the last and doesn't have bias
 
         for (int j = 0; j < NeuronsCount; j++) {
-            for (int k = 0; k < UpperLayerSize; k++) {
+            for (int k = 0; k < nextLayerSize; k++) {
                 file.write((char*) &neurons[i][j].outputWeight[k], SIZE_OF_WEIGHT);
             }
         }
@@ -199,44 +199,56 @@ float Net::backprop(std::vector<float>& answer, float lr) {
         float loss_total = 0;
         std::vector<float> loss;
         std::vector<float> loss_grad;
-        float partial_grad;
         int NeuronsCount;
-        int TopNeuronsCount = answer.size();
-        for (int i = 0; i < TopNeuronsCount; i++) {
+        int TopLayerNeuronsCount = answer.size();
+        for (int i = 0; i < TopLayerNeuronsCount; i++) {
             loss.push_back(0.5 * (answer[i] - neurons[LayersCount - 1][i].value) * (answer[i] - neurons[LayersCount - 1][i].value));
             loss_grad.push_back(answer[i] - neurons[LayersCount - 1][i].value);
             loss_total += loss[i];
         }
         for (int i = LayersCount - 1; i > 0; i--) {
-            int upperLayerSize = 0;
-            if (i < LayersCount - 1) {
-                upperLayerSize = neurons[i + 1].size();
+            if (i < LayersCount - 2) {
+                int nextLayerSize = neurons[i + 1].size() - 1; // -1 bc bias of upper layer is not connected to us
                 NeuronsCount = neurons[i].size() - 1;
-            }
-            else
-                NeuronsCount = neurons[i].size(); // no bias on last layer
-
-            NeuronsCount = neurons[i].size();
-            for (int j = 0; j < NeuronsCount; j++) {
-                float out = neurons[i][j].value;
-
-                if (i == LayersCount - 1) {
-                    float err = loss_grad[j];
-                    partial_grad = err * (out * (1.0 - out)); // out = sigmoid(x), and sigmoid'(x) is exactly out * (1.0 - out)
-                    neurons[i][j].grad = partial_grad;
-                }
-                else {
-                    partial_grad = activation_deriv(out);
-                    float part = 0;
-                    for (int l = 0; l < upperLayerSize; l++) {
-                        if (i < LayersCount - 2 && l == upperLayerSize - 1) // bc bias of upper layer is not connected to us(and first layer doesn't have bias)
-                            break;
-                        part += neurons[i][j].outputWeight[l] * neurons[i + 1][l].grad;
+                for (int j = 0; j < NeuronsCount; j++) {
+                    float out = neurons[i][j].value;
+                    float partial_grad = 0;
+                    for (int l = 0; l < nextLayerSize; l++) {
+                        partial_grad += neurons[i][j].outputWeight[l] * neurons[i + 1][l].grad;
                     }
-                    neurons[i][j].grad = partial_grad * part;
+                    neurons[i][j].grad = activation_deriv(out) * partial_grad;
                 }
-                int PrevousLayerNeuronsCount = neurons[i - 1].size();
-                for (int k = 0; k < PrevousLayerNeuronsCount; k++) {
+            }
+            else if (i < LayersCount - 1) {  // for penultimate layer
+                int nextLayerSize = neurons[i + 1].size();
+                NeuronsCount = neurons[i].size() - 1;
+                for (int j = 0; j < NeuronsCount; j++) {
+                    float out = neurons[i][j].value; 
+                    float partial_grad = 0;
+                    for (int l = 0; l < nextLayerSize; l++) {
+                        partial_grad += neurons[i][j].outputWeight[l] * neurons[i + 1][l].grad;
+                    }
+                    neurons[i][j].grad = activation_deriv(out) * partial_grad;
+                }
+            }
+            else { // for the last layer
+                NeuronsCount = neurons[i].size();
+                for (int j = 0; j < NeuronsCount; j++) {
+                    float err = loss_grad[j];
+                    float out = neurons[i][j].value;
+                    neurons[i][j].grad = err * (out * (1.0 - out)); // out = sigmoid(x), and sigmoid'(x) is exactly out * (1.0 - out)
+                }
+            }
+        }
+        for (int i = LayersCount - 1; i > 0; i--) {
+            if (i < LayersCount - 1) {
+                NeuronsCount = neurons[i].size() - 1;
+            }else {
+                NeuronsCount = neurons[i].size();
+            }
+            for (int j = 0; j < NeuronsCount; j++) {
+                int PreviousLayerNeuronsCount = neurons[i - 1].size();
+                for (int k = 0; k < PreviousLayerNeuronsCount; k++) {
                     neurons[i - 1][k].outputWeight[j] += neurons[i][j].grad * lr * neurons[i - 1][k].value;
                 }
             }
